@@ -1,0 +1,483 @@
+{
+  "GPTTools": [
+    {
+      "id": 1,
+      "name": "Jasper",
+      "image": "https://assets-global.website-files.com/60e5f2de011b865a06c30ddd/62ab3009aabb140d51ce40be_GPT-3%20AI%20writing%20assistant%20tools%20Jasper.png",
+      "Link": "https://www.jasper.ai/",
+      "detail": "Jasper is an all-in-one AI writing assistant designed to generate content for you once you’ve entered a few key details about your topic. ",
+      "Top Features": [
+        {
+          "f": "Jasper comes with Boss Mode, which lets you dictate to it as it writes for you"
+        },
+        {
+          "f": "Comes with a paraphrase feature in case you want to restructure specific sentences"
+        },
+        {
+          "f": "Let’s you check for plagiarism and grammar"
+        },
+        {
+          "f": "Comes with templates for different types of writing scenarios"
+        },
+        {
+          "f": "Lets you save your work in project folders and documents"
+        },
+        {
+          "f": "Comes with an engaged Facebook community where users share tips and tricks"
+        },
+        {
+          "f": "Helps you create custom images with it's AI art generator, Jasper Art."
+        }
+      ],
+      "Price": [
+        {
+          "p": "Starter: $45 a month for up to 35,000 words"
+        },
+        {
+          "p": "Boss Mode: $99 a month for up to 1000,000 words"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "ChibiAI",
+      "image": "https://assets-global.website-files.com/60e5f2de011b865a06c30ddd/62ab3038aae8394511fb2412_ChibiAI.png",
+      "Link": "https://chibi.ai/",
+      "detail": "ChibiAI is designed to help you get over writer’s block and predict what you’ll write next by suggesting new ideas as you go.",
+      "Top Features": [
+        {
+          "f": "Comes with a responsive community that answers all your support questions"
+        },
+        {
+          "f": "Is designed to write with you instead of generating content for you"
+        }
+      ],
+      "Price": [
+        {
+          "p": "Get started with ChibiAI for $9. "
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Copysmith",
+      "image": "https://assets-global.website-files.com/60e5f2de011b865a06c30ddd/62ab30451c456745cd4a629a_Copysmith.png",
+      "Link": "https://copysmith.ai/",
+      "detail": "Copysmith works best for e-commerce teams that want a streamlined way to write content like product descriptions and landing page copy. ",
+      "Top Features": [
+        {
+          "f": "Comes with a chrome extension for easy access"
+        },
+        {
+          "f": "Bulk generate content once you upload your content spreadsheets"
+        },
+        {
+          "f": "Comes with templates for ad copy, captions, and blog outlines"
+        },
+        {
+          "f": "Assign content generation assignments to teams and collaborate on new projects from one place"
+        }
+      ],
+      "Price": [
+        {
+          "p": "Starter: $99 a month for up to 33,000 words a month"
+        },
+        {
+          "p": "Professional: $59 a month for up to 260,000 words a month"
+        },
+        {
+          "p": "Enterprise: Contact their sales team for a quote"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Kafkai",
+      "image": "https://assets-global.website-files.com/60e5f2de011b865a06c30ddd/62ab30518ea929e30d987145_Kafkai.png",
+      "Link": "https://kafkai.com/en/",
+      "detail": "Kafkai is a machine learning tool that writes every article from scratch without the need to scrape any digital content.",
+      "Top Features": [
+        {
+          "f": "The niche AI article writer feature will generate an article for you once you’ve chosen a niche"
+        },
+        {
+          "f": "Is able to translate articles to seven languages"
+        },
+        {
+          "f": "Designed for bulk content generation. "
+        }
+      ],
+      "Price": [
+        {
+          "p": "Industrial Printer: $199 a month for up to 2,500 articles"
+        },
+        {
+          "p": "Printing Press: $129 a month for up to 1,000 articles"
+        },
+        {
+          "p": "Newsroom: $49 a month for up to 250 articles"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "name": "Texta",
+      "image": "https://assets-global.website-files.com/60e5f2de011b865a06c30ddd/62ab3064d29a7d1a3e8c5f8f_Texta.png",
+      "Link": "https://texta.ai/dark",
+      "detail": "Texta is an AI copywriter that’s useful for creating website copy, social ads, video script, and even sales copy. ",
+      "Top Features": [
+        {
+          "f": "Let’s you set tone, style, and how creative you’d like the writing to be"
+        },
+        {
+          "f": "Comes with long-form generator to create blog posts"
+        },
+        {
+          "f": "Translates copy to over 20 languages"
+        }
+      ],
+      "Price": [
+        {
+          "p": "Starter: $29 a month for up to 50,000 words"
+        },
+        {
+          "p": "Pro Max: $69 a month for up to 200,000 words"
+        },
+        {
+          "p": "Pro Max Plus: $99 a month for up to 300,000 words"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "name": "Frase",
+      "image": "https://assets-global.website-files.com/60e5f2de011b865a06c30ddd/62ab306faabb14e1a6ce8f11_Frase.png",
+      "Link": "https://www.frase.io/",
+      "detail": "Frase is designed to helps marketing teams write SEO content much quicker with its content analytics and content brief features.",
+      "Top Features": [
+        {
+          "f": "Can generate content briefs in a few minutes"
+        },
+        {
+          "f": "Let’s you create and store custom templates"
+        },
+        {
+          "f": "Autocompletes new sentences and writes entire paragraphs for you"
+        }
+      ],
+      "Price": [
+        {
+          "p": "Basic: $44.99 a month if paid annually for 30 document credits"
+        },
+        {
+          "p": "Team: $114.99 a month if paid annually for unlimited credits"
+        },
+        {
+          "p": "Enterprise: Contact team for more information"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "name": "Anyword",
+      "image": "https://assets-global.website-files.com/60e5f2de011b865a06c30ddd/62ab309574831aab8253bcad_Anyword.png",
+      "Link": "https://anyword.com/",
+      "detail": "Anyword is a copywriting AI designed to use predictive analytics to help you write better sales copy that converts.",
+      "Top Features": [
+        {
+          "f": "Connects to your landing page for easier content generation workflow"
+        },
+        {
+          "f": "Includes policy compliance detection features"
+        },
+        {
+          "f": "Can write content in 25 languages"
+        }
+      ],
+      "Price": [
+        {
+          "p": "Data-Driven: $83 a month for 80,000 credits"
+        },
+        {
+          "p": "Data-Driven Unlimited: $266 a month for unlimited credits"
+        },
+        {
+          "p": "Enterprise: $999 a month"
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "name": "Zyro",
+      "image": "https://assets-global.website-files.com/60e5f2de011b865a06c30ddd/62ab309ff0d7c2f0ee86e785_Zyro.png",
+      "Link": "https://zyro.com/in",
+      "detail": "Zyro makes it easy to build a website or online store by generating content for you through a series of templates and text generation tools.",
+      "Top Features": [
+        {
+          "f": "Generate website text through niche templates or freewriting"
+        },
+        {
+          "f": "Comes with SEO features"
+        },
+        {
+          "f": "Generates product descriptions"
+        }
+      ],
+      "Price": [
+        {
+          "p": "Website: $2.90 a month"
+        },
+        {
+          "p": "Business: $4.90 a month"
+        },
+        {
+          "p": "Advanced Store: $15.90 a month"
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "name": "Writesonic",
+      "image": "https://assets-global.website-files.com/60e5f2de011b865a06c30ddd/62ab30b11c456706ea4a7622_Writesonic.png",
+      "Link": "https://writesonic.com/",
+      "detail": "Writesonic generates Google ads, landing pages, emails and more in a matter of seconds.",
+      "Top Features": [
+        {
+          "f": "Lets you describe your product, set the occasion, and insert a special offer"
+        },
+        {
+          "f": "Comes with more than 40 copy templates"
+        },
+        {
+          "f": "Offers a Facebook community"
+        }
+      ],
+      "Price": [
+        {
+          "p": "Free: $0 for 10 credits"
+        },
+        {
+          "p": "Business: $4.90 a month"
+        },
+        {
+          "p": "Economy: $25 a month for 750 credits"
+        },
+        {
+          "p": "Professional: $45 a month for unlimited credits"
+        },
+        {
+          "p": "Startup: $95 a month for unlimited credits"
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "name": "Sassbook",
+      "image": "https://assets-global.website-files.com/60e5f2de011b865a06c30ddd/62ab30be9c9b9414e6b6907f_Sassbook.png",
+      "Link": "https://sassbook.com/",
+      "detail": "Sassbook is built to help you write and summarize stories in minutes without the need to create an account.",
+      "Top Features": [
+        {
+          "f": "Can summarize pages of content for you"
+        },
+        {
+          "f": "Use it to write stories with the help of AI"
+        },
+        {
+          "f": "Lets you create content briefs"
+        }
+      ],
+      "Price": [
+        {
+          "p": "Free: 50 words per generation"
+        },
+        {
+          "p": "Standard: $32 a month for 70 words per generation"
+        },
+        {
+          "p": "Premium: $49 a month for 100 words per generation"
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "name": "Simplified",
+      "image": "https://assets-global.website-files.com/60e5f2de011b865a06c30ddd/62ab30d028eb3034ddcfd328_Simplified.png",
+      "Link": "https://simplified.com/ai-writer/",
+      "detail": "Simplified is an AI writer designed for marketing copy that forms part of a suite of marketing tools teams can use to streamline their workflows.",
+      "Top Features": [
+        {
+          "f": "Generates SEO-driven copy"
+        },
+        {
+          "f": "More than 30 different AI marketing templates and use cases"
+        },
+        {
+          "f": "Lets you rewrite content with one click"
+        },
+        {
+          "f": "You can organize both teams and clients within one unified dashboard"
+        }
+      ],
+      "Price": [
+        {
+          "p": "Free Forever for individuals"
+        },
+        {
+          "p": "Small Teams: $12 for up to 5 team members"
+        },
+        {
+          "p": "Business: $24 for up to 5 team members"
+        },
+        {
+          "p": "Growth: $99 for up to 5 team members"
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "name": "HyperWrite",
+      "image": "https://assets-global.website-files.com/60e5f2de011b865a06c30ddd/62ab30e7520c5e29e7a4ae16_HyperWrite.png",
+      "Link": "https://www.hyperwriteai.com/",
+      "detail": "HyperWrite is an AI copywriting tool built to generate original paragraphs once you feed it some basic information on what you’re looking for.",
+      "Top Features": [
+        {
+          "f": "Suggests unique phrasing and sentences as you write"
+        },
+        {
+          "f": "Can include information from chosen sources"
+        },
+        {
+          "f": "Useful for students and professionals"
+        }
+      ],
+      "Price": [
+        {
+          "p": "Get started with HyperWrite for free."
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "name": "Rytr",
+      "image": "https://assets-global.website-files.com/60e5f2de011b865a06c30ddd/62ab30f78ea929b4c4989dda_Rytr.png",
+      "Link": "https://rytr.me/",
+      "detail": "Much like other GTP-3 tools in the space, Rytr helps you generate content faster and at an affordable price point.",
+      "Top Features": [
+        {
+          "f": "Lets you generate AI responses for automated chatbots, customer reviews, emails, and customer support questions"
+        },
+        {
+          "f": "Comes with a plugin you can use in Shopify and WordPress"
+        },
+        {
+          "f": "Its API lets you integrate it into your existing apps and workflow"
+        },
+        {
+          "f": "Its SEO analyzer ensures you’re optimizing your copy to rank in SERPs"
+        }
+      ],
+      "Price": [
+        {
+          "p": "Free Plan: Generate up to 5,000 characters a month"
+        },
+        {
+          "p": "Saver Plan: $9 a month for up to 50,000 characters per month"
+        },
+        {
+          "p": "Unlimited Plan: $29 a month for unlimited characters"
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "name": "Longshot",
+      "image": "https://assets-global.website-files.com/60e5f2de011b865a06c30ddd/62ab310cdc6117c6010b239f_Longshot.png",
+      "Link": "https://www.longshot.ai/",
+      "detail": "Longshot is a robust long-form writing assistant built for content teams, marketers, writers, and editors.",
+      "Top Features": [
+        {
+          "f": "Comes with semantic SEO features to write competitive content that ranks"
+        },
+        {
+          "f": "Fluent in eight languages"
+        },
+        {
+          "f": "Comes with a unique five-step approach to blog content generation"
+        },
+        {
+          "f": "Makes writing easier by letting you specify what niche you’re creating content for"
+        }
+      ],
+      "Price": [
+        {
+          "p": "Basic: 10 free credits per day"
+        },
+        {
+          "p": "Pro: $29.90 per month for 1,000 credits"
+        },
+        {
+          "p": "Enterprise: $89.90 per month for unlimited credits"
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "name": "Wordtune",
+      "image": "https://assets-global.website-files.com/60e5f2de011b865a06c30ddd/62ab310cdc6117c6010b239f_Longshot.png",
+      "Link": "https://www.wordtune.com/",
+      "detail": "Wordtune is a Chrome extension that will edit and rewrite your content as you write it whether you’re working in Google Docs or a Word document. ",
+      "Top Features": [
+        {
+          "f": "Switch from casual to formal finetuning preferences"
+        },
+        {
+          "f": "Let’s you change the length of your sentences as you go"
+        },
+        {
+          "f": "Includes grammar and spelling fixes and works in Word"
+        }
+      ],
+      "Price": [
+        {
+          "p": "Free: $0 for 10 rewrites a day"
+        },
+        {
+          "p": "Premium: $9.99 a month for unlimited rewrites"
+        },
+        {
+          "p": "Premium for Teams: Contact the sales team"
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "name": "INK",
+      "image": "https://assets-global.website-files.com/60e5f2de011b865a06c30ddd/62ab313a1dee7bd1125a54f5_INK.png",
+      "Link": "https://inkforall.com/",
+      "detail": "As a Chrome extension, INK works as an SEO cowriter that enables you to produce high quality content that’s optimized and unique to you.",
+      "Top Features": [
+        {
+          "f": "Comes with writing scores for different writing criteria"
+        },
+        {
+          "f": "Analyzes your SEO competition to inform you on how to outrank them"
+        },
+        {
+          "f": "Helps you generate clickable headlines"
+        }
+      ],
+      "Price": [
+        {
+          "p": "Team SEO Unlimited: $177 per month billed annually for unlimited ink points"
+        },
+        {
+          "p": "Pro SEO: $44 per month billed annually for 444 ink points"
+        },
+        {
+          "p": "Starter: $8 per month billed annually for 222 ink points"
+        }
+      ]
+    }
+  ]
+}
