@@ -1,0 +1,3870 @@
+{
+  "title": "Bank Holidays 2020",
+  "data": {
+    "Andaman and Nicobar": [
+      {
+        "date": "26 Jan",
+        "day": "Sun",
+        "holiday": "Republic Day"
+      },
+      {
+        "date": "10 Mar",
+        "day": "Tue",
+        "holiday": "Holi"
+      },
+      {
+        "date": "2 Apr",
+        "day": "Thu",
+        "holiday": "Ram Navami"
+      },
+      {
+        "date": "10 Apr",
+        "day": "Fri",
+        "holiday": "Good Friday"
+      },
+      {
+        "date": "7 May",
+        "day": "Thu",
+        "holiday": "Buddha Purnima"
+      },
+      {
+        "date": "31 May",
+        "day": "Sat",
+        "holiday": "Idul Fitr"
+      },
+      {
+        "date": "31 Jul",
+        "day": "Fri",
+        "holiday": "Bakrid / Eid al Adha"
+      },
+      {
+        "date": "15 Aug",
+        "day": "Sat",
+        "holiday": "Independence Day"
+      },
+      {
+        "date": "11 Aug",
+        "day": "Tue",
+        "holiday": "Janmashtami"
+      },
+      {
+        "date": "30 Aug",
+        "day": "Sun",
+        "holiday": "Muharram"
+      },
+      {
+        "date": "2 Oct",
+        "day": "Fri",
+        "holiday": "Gandhi Jayanti"
+      },
+      {
+        "date": "26 Oct",
+        "day": "Mon",
+        "holiday": "Vijaya Dashami"
+      },
+      {
+        "date": "14 Nov",
+        "day": "Sat",
+        "holiday": "Diwali"
+      },
+      {
+        "date": "30 Nov",
+        "day": "Mon",
+        "holiday": "Guru Nanak Jayanti"
+      },
+      {
+        "date": "25 Dec",
+        "day": "Fri",
+        "holiday": "Christmas Day"
+      }
+    ],
+    "Lakshadweep": [
+      {
+        "date": "26 Jan",
+        "day": "Sun",
+        "holiday": "Republic Day"
+      },
+      {
+        "date": "6 Apr",
+        "day": "Mon",
+        "holiday": "Mahavir Jayanti"
+      },
+      {
+        "date": "10 Apr",
+        "day": "Fri",
+        "holiday": "Good Friday"
+      },
+      {
+        "date": "23 May",
+        "day": "Sat",
+        "holiday": "Idul Fitr"
+      },
+      {
+        "date": "31 Jul",
+        "day": "Fri",
+        "holiday": "Bakrid / Eid al Adha"
+      },
+      {
+        "date": "15 Aug",
+        "day": "Sat",
+        "holiday": "Independence Day"
+      },
+      {
+        "date": "30 Aug",
+        "day": "Sun",
+        "holiday": "Muharram"
+      },
+      {
+        "date": "2 Oct",
+        "day": "Fri",
+        "holiday": "Gandhi Jayanti"
+      },
+      {
+        "date": "26 Oct",
+        "day": "Mon",
+        "holiday": "Vijaya Dashami"
+      },
+      {
+        "date": "14 Nov",
+        "day": "Sat",
+        "holiday": "Diwali"
+      },
+      {
+        "date": "30 Oct",
+        "day": "Fri",
+        "holiday": "Eid e Milad"
+      },
+      {
+        "date": "30 Nov",
+        "day": "Mon",
+        "holiday": "Guru Nanak Jayanti"
+      },
+      {
+        "date": "25 Dec",
+        "day": "Fri",
+        "holiday": "Christmas Day"
+      }
+    ],
+    "Andhra Pradesh": [
+      {
+        "date": "15 Jan",
+        "day": "Wed",
+        "holiday": "Pongal"
+      },
+      {
+        "date": "16 Jan",
+        "day": "Thu",
+        "holiday": "Kanuma Panduga"
+      },
+      {
+        "date": "26 Jan",
+        "day": "Sun",
+        "holiday": "Republic Day"
+      },
+      {
+        "date": "4 Feb",
+        "day": "Fri",
+        "holiday": "Maha Shivaratri"
+      },
+      {
+        "date": "10 Mar",
+        "day": "Tue",
+        "holiday": "Holi"
+      },
+      {
+        "date": "5 Apr",
+        "day": "Sun",
+        "holiday": "Babu Jagjivan Ram Jayanti"
+      },
+      {
+        "date": "25 Mar",
+        "day": "Wed",
+        "holiday": "Ugadi"
+      },
+      {
+        "date": "2 Apr",
+        "day": "Thu",
+        "holiday": "Ram Navami"
+      },
+      {
+        "date": "14 Apr",
+        "day": "Tue",
+        "holiday": "Dr Ambedkar Jayanti"
+      },
+      {
+        "date": "10 Apr",
+        "day": "Fri",
+        "holiday": "Good Friday"
+      },
+      {
+        "date": "24 May",
+        "day": "Sun",
+        "holiday": "Idul Fitr"
+      },
+      {
+        "date": "31 Jul",
+        "day": "Fri",
+        "holiday": "Bakrid / Eid al Adha"
+      },
+      {
+        "date": "15 Aug",
+        "day": "Sat",
+        "holiday": "Independence Day"
+      },
+      {
+        "date": "11 Aug",
+        "day": "Tue",
+        "holiday": "Janmashtami"
+      },
+      {
+        "date": "22 Aug",
+        "day": "Sat",
+        "holiday": "Ganesh Chaturthi"
+      },
+      {
+        "date": "30 Aug",
+        "day": "Sun",
+        "holiday": "Muharram"
+      },
+      {
+        "date": "2 Oct",
+        "day": "Fri",
+        "holiday": "Gandhi Jayanti"
+      },
+      {
+        "date": "24 Oct",
+        "day": "Sat",
+        "holiday": "Maha Ashtami"
+      },
+      {
+        "date": "26 Oct",
+        "day": "Mon",
+        "holiday": "Vijaya Dashami"
+      },
+      {
+        "date": "14 Nov",
+        "day": "Sat",
+        "holiday": "Deepavali"
+      },
+      {
+        "date": "30 Oct",
+        "day": "Fri",
+        "holiday": "Eid e Milad"
+      },
+      {
+        "date": "25 Dec",
+        "day": "Fri",
+        "holiday": "Christmas Day"
+      }
+    ],
+    "Madhya Pradesh": [
+      {
+        "date": "26 Jan",
+        "day": "Sun",
+        "holiday": "Republic Day"
+      },
+      {
+        "date": "10 Mar",
+        "day": "Tue",
+        "holiday": "Holi"
+      },
+      {
+        "date": "2 Apr",
+        "day": "Thu",
+        "holiday": "Ram Navami"
+      },
+      {
+        "date": "14 Apr",
+        "day": "Tue",
+        "holiday": "Dr Ambedkar Jayanti"
+      },
+      {
+        "date": "6 Apr",
+        "day": "Mon",
+        "holiday": "Mahavir Jayanti"
+      },
+      {
+        "date": "10 Apr",
+        "day": "Fri",
+        "holiday": "Good Friday"
+      },
+      {
+        "date": "25 Apr",
+        "day": "Sat",
+        "holiday": "Maharshi Parasuram Jayanti"
+      },
+      {
+        "date": "7 May",
+        "day": "Thu",
+        "holiday": "Buddha Purnima"
+      },
+      {
+        "date": "24 May",
+        "day": "Sun",
+        "holiday": "Idul Fitr"
+      },
+      {
+        "date": "31 Jul",
+        "day": "Fri",
+        "holiday": "Bakrid / Eid al Adha"
+      },
+      {
+        "date": "15 Aug",
+        "day": "Sat",
+        "holiday": "Independence Day"
+      },
+      {
+        "date": "3 Aug",
+        "day": "Mon",
+        "holiday": "Raksha Bandhan"
+      },
+      {
+        "date": "11 Aug",
+        "day": "Tue",
+        "holiday": "Janmashtami"
+      },
+      {
+        "date": "30 Aug",
+        "day": "Sun",
+        "holiday": "Muharram"
+      },
+      {
+        "date": "2 Oct",
+        "day": "Fri",
+        "holiday": "Gandhi Jayanti"
+      },
+      {
+        "date": "26 Oct",
+        "day": "Mon",
+        "holiday": "Vijaya Dashami"
+      },
+      {
+        "date": "31 Oct",
+        "day": "Sat",
+        "holiday": "Maharishi Valmiki Jayanti"
+      },
+      {
+        "date": "14 Nov",
+        "day": "Sat",
+        "holiday": "Diwali"
+      },
+      {
+        "date": "30 Oct",
+        "day": "Fri",
+        "holiday": "Eid e Milad"
+      },
+      {
+        "date": "30 Nov",
+        "day": "Mon",
+        "holiday": "Guru Nanak Jayanti"
+      },
+      {
+        "date": "25 Dec",
+        "day": "Fri",
+        "holiday": "Christmas Day"
+      }
+    ],
+    "Arunachal Pradesh": [
+      {
+        "date": "1 Jan",
+        "day": "Wed",
+        "holiday": "New Year's Day"
+      },
+      {
+        "date": "15 Jan",
+        "day": "Wed",
+        "holiday": "Pongal"
+      },
+      {
+        "date": "26 Jan",
+        "day": "Sun",
+        "holiday": "Republic Day"
+      },
+      {
+        "date": "20 Feb",
+        "day": "Thu",
+        "holiday": "State Day"
+      },
+      {
+        "date": "10 Mar",
+        "day": "Tue",
+        "holiday": "Holi"
+      },
+      {
+        "date": "14 Apr",
+        "day": "Tue",
+        "holiday": "Bohag Bihu"
+      },
+      {
+        "date": "10 Apr",
+        "day": "Fri",
+        "holiday": "Good Friday"
+      },
+      {
+        "date": "7 May",
+        "day": "Thu",
+        "holiday": "Buddha Purnima"
+      },
+      {
+        "date": "24 May",
+        "day": "Sun",
+        "holiday": "Idul Fitr"
+      },
+      {
+        "date": "15 Aug",
+        "day": "Sat",
+        "holiday": "Independence Day"
+      },
+      {
+        "date": "2 Oct",
+        "day": "Fri",
+        "holiday": "Gandhi Jayanti"
+      },
+      {
+        "date": "24 Oct",
+        "day": "Sat",
+        "holiday": "Maha Navami"
+      },
+      {
+        "date": "26 Oct",
+        "day": "Mon",
+        "holiday": "Vijaya Dashami"
+      },
+      {
+        "date": "14 Nov",
+        "day": "Sat",
+        "holiday": "Diwali"
+      },
+      {
+        "date": "30 Nov",
+        "day": "Mon",
+        "holiday": "Guru Nanak Jayanti"
+      },
+      {
+        "date": "1 Dec",
+        "day": "Wed",
+        "holiday": "Indigenous Faith Day"
+      },
+      {
+        "date": "25 Dec",
+        "day": "Fri",
+        "holiday": "Christmas Day"
+      }
+    ],
+    "Maharashtra": [
+      {
+        "date": "26 Jan",
+        "day": "Sun",
+        "holiday": "Republic Day"
+      },
+      {
+        "date": "19 Feb",
+        "day": "Tue",
+        "holiday": "Chhatrapati Shivaji Maharaj Jayanti"
+      },
+      {
+        "date": "21 Feb",
+        "day": "Fri",
+        "holiday": "Maha Shivaratri"
+      },
+      {
+        "date": "10 Mar",
+        "day": "Tue",
+        "holiday": "Holi"
+      },
+      {
+        "date": "25 Mar",
+        "day": "Wed",
+        "holiday": "Gudi Padwa"
+      },
+      {
+        "date": "2 Apr",
+        "day": "Thu",
+        "holiday": "Ram Navami"
+      },
+      {
+        "date": "14 Apr",
+        "day": "Tue",
+        "holiday": "Dr Ambedkar Jayanti"
+      },
+      {
+        "date": "6 Apr",
+        "day": "Mon",
+        "holiday": "Mahavir Jayanti"
+      },
+      {
+        "date": "10 Apr",
+        "day": "Fri",
+        "holiday": "Good Friday"
+      },
+      {
+        "date": "1 May",
+        "day": "Fri",
+        "holiday": "Maharashtra Day"
+      },
+      {
+        "date": "7 May",
+        "day": "Thu",
+        "holiday": "Buddha Purnima"
+      },
+      {
+        "date": "24 May",
+        "day": "Sun",
+        "holiday": "Idul Fitr"
+      },
+      {
+        "date": "31 Jul",
+        "day": "Fri",
+        "holiday": "Bakrid / Eid al Adha"
+      },
+      {
+        "date": "15 Aug",
+        "day": "Sat",
+        "holiday": "Independence Day"
+      },
+      {
+        "date": "17 Aug",
+        "day": "Mon",
+        "holiday": "Parsi New Year"
+      },
+      {
+        "date": "22 Aug",
+        "day": "Sat",
+        "holiday": "Ganesh Chaturthi"
+      },
+      {
+        "date": "30 Aug",
+        "day": "Sun",
+        "holiday": "Muharram"
+      },
+      {
+        "date": "2 Oct",
+        "day": "Fri",
+        "holiday": "Gandhi Jayanti"
+      },
+      {
+        "date": "26 Oct",
+        "day": "Mon",
+        "holiday": "Vijaya Dashami"
+      },
+      {
+        "date": "14 Nov",
+        "day": "Sat",
+        "holiday": "Diwali"
+      },
+      {
+        "date": "15 Nov",
+        "day": "Sun",
+        "holiday": "Deepavali Holiday"
+      },
+      {
+        "date": "30 Oct",
+        "day": "Fri",
+        "holiday": "Eid e Milad"
+      },
+      {
+        "date": "30 Nov",
+        "day": "Mon",
+        "holiday": "Guru Nanak Jayanti"
+      },
+      {
+        "date": "25 Dec",
+        "day": "Fri",
+        "holiday": "Christmas Day"
+      }
+    ],
+    "Assam": [
+      {
+        "date": "15 Jan",
+        "day": "Wed",
+        "holiday": "Magh Bihu"
+      },
+      {
+        "date": "26 Jan",
+        "day": "Sun",
+        "holiday": "Republic Day"
+      },
+      {
+        "date": "31 Jan",
+        "day": "Fri",
+        "holiday": "Me-Dum-Me-Phi"
+      },
+      {
+        "date": "10 Mar",
+        "day": "Tue",
+        "holiday": "Holi"
+      },
+      {
+        "date": "14 Apr",
+        "day": "Tue",
+        "holiday": "Bohag Bihu Holiday"
+      },
+      {
+        "date": "13 Apr",
+        "day": "Mon",
+        "holiday": "Bohag Bihu"
+      },
+      {
+        "date": "10 Apr",
+        "day": "Fri",
+        "holiday": "Good Friday"
+      },
+      {
+        "date": "1 May",
+        "day": "Fri",
+        "holiday": "May Day"
+      },
+      {
+        "date": "24 May",
+        "day": "Sun",
+        "holiday": "Idul Fitr"
+      },
+      {
+        "date": "31 Jul",
+        "day": "Fri",
+        "holiday": "Bakrid / Eid al Adha"
+      },
+      {
+        "date": "15 Aug",
+        "day": "Thu",
+        "holiday": "Independence Day"
+      },
+      {
+        "date": "2 Oct",
+        "day": "Fri",
+        "holiday": "Gandhi Jayanti"
+      },
+      {
+        "date": "25 Oct",
+        "day": "Sun",
+        "holiday": "Maha Navami"
+      },
+      {
+        "date": "26 Oct",
+        "day": "Mon",
+        "holiday": "Vijaya Dashami"
+      },
+      {
+        "date": "14 Nov",
+        "day": "Sat",
+        "holiday": "Diwali"
+      },
+      {
+        "date": "30 Nov",
+        "day": "Mon",
+        "holiday": "Guru Nanak Jayanti"
+      },
+      {
+        "date": "25 Dec",
+        "day": "Fri",
+        "holiday": "Christmas Day"
+      }
+    ],
+    "Manipur": [
+      {
+        "date": "1 Jan",
+        "day": "Wed",
+        "holiday": "New Year's Day"
+      },
+      {
+        "date": "26 Jan",
+        "day": "Sun",
+        "holiday": "Republic Day"
+      },
+      {
+        "date": "15 Feb",
+        "day": "Sat",
+        "holiday": "Lui-Ngai-Ni"
+      },
+      {
+        "date": "Mar 10",
+        "day": "Tue",
+        "holiday": "Yaosang 2nd Day"
+      },
+      {
+        "date": "Mar 25",
+        "day": "Wed",
+        "holiday": "Sajibu Nongmapanba (Cheiraoba)"
+      },
+      {
+        "date": "14 Apr",
+        "day": "Tue",
+        "holiday": "Cheiraoba"
+      },
+      {
+        "date": "10 Apr",
+        "day": "Fri",
+        "holiday": "Good Friday"
+      },
+      {
+        "date": "1 May",
+        "day": "Fri",
+        "holiday": "May Day"
+      },
+      {
+        "date": "24 May",
+        "day": "Sun",
+        "holiday": "Idul Fitr"
+      },
+      {
+        "date": "31 Jul",
+        "day": "Fri",
+        "holiday": "Bakrid / Eid al Adha"
+      },
+      {
+        "date": "13 Aug",
+        "day": "Thu",
+        "holiday": "Patriots Day"
+      },
+      {
+        "date": "15 Aug",
+        "day": "Sat",
+        "holiday": "Independence Day"
+      },
+      {
+        "date": "11 Aug",
+        "day": "Tue",
+        "holiday": "Janmashtami"
+      },
+      {
+        "date": "2 Oct",
+        "day": "Fri",
+        "holiday": "Gandhi Jayanti"
+      },
+      {
+        "date": "24 Oct",
+        "day": "Sat",
+        "holiday": "Maha Ashtami"
+      },
+      {
+        "date": "14 Nov",
+        "day": "Sun",
+        "holiday": "Diwali"
+      },
+      {
+        "date": "1 Nov",
+        "day": "Sun",
+        "holiday": "Kut"
+      },
+      {
+        "date": "25 Dec",
+        "day": "Fri",
+        "holiday": "Christmas Day"
+      },
+      {
+        "date": "31 Dec",
+        "day": "Thu",
+        "holiday": "New Year's Eve"
+      }
+    ],
+    "Bihar": [
+      {
+        "date": "26 Jan",
+        "day": "Sun",
+        "holiday": "Republic Day"
+      },
+      {
+        "date": "10 Mar",
+        "day": "Tue",
+        "holiday": "Holi"
+      },
+      {
+        "date": "22 Mar",
+        "day": "Sun",
+        "holiday": "Bihar Day"
+      },
+      {
+        "date": "2 Apr",
+        "day": "Thu",
+        "holiday": "Ram Navami"
+      },
+      {
+        "date": "14 Apr",
+        "day": "Tue",
+        "holiday": "Dr Ambedkar Jayanti"
+      },
+      {
+        "date": "10 Apr",
+        "day": "Fri",
+        "holiday": "Good Friday"
+      },
+      {
+        "date": "1 May",
+        "day": "Fri",
+        "holiday": "May Day"
+      },
+      {
+        "date": "24 May",
+        "day": "Sun",
+        "holiday": "Idul Fitr"
+      },
+      {
+        "date": "31 Jul",
+        "day": "Fri",
+        "holiday": "Bakrid / Eid al Adha"
+      },
+      {
+        "date": "15 Aug",
+        "day": "Sat",
+        "holiday": "Independence Day"
+      },
+      {
+        "date": "11 Aug",
+        "day": "Tue",
+        "holiday": "Janmashtami"
+      },
+      {
+        "date": "30 Aug",
+        "day": "Sun",
+        "holiday": "Muharram"
+      },
+      {
+        "date": "2 Oct",
+        "day": "Fri",
+        "holiday": "Gandhi Jayanti"
+      },
+      {
+        "date": "25 Oct",
+        "day": "Sun",
+        "holiday": "Maha Navami"
+      },
+      {
+        "date": "26 Oct",
+        "day": "Mon",
+        "holiday": "Vijaya Dashami"
+      },
+      {
+        "date": "14 Nov",
+        "day": "Sat",
+        "holiday": "Diwali"
+      },
+      {
+        "date": "20 Nov",
+        "day": "Fri",
+        "holiday": "Chhath Puja"
+      },
+      {
+        "date": "21 Nov",
+        "day": "Sat",
+        "holiday": "Chhath Puja Holiday"
+      },
+      {
+        "date": "25 Dec",
+        "day": "Fri",
+        "holiday": "Christmas Day"
+      }
+    ],
+    "Meghalaya": [
+      {
+        "date": "1 Jan",
+        "day": "Wed",
+        "holiday": "New Year's Day"
+      },
+      {
+        "date": "26 Jan",
+        "day": "Sun",
+        "holiday": "Republic Day"
+      },
+      {
+        "date": "10 Mar",
+        "day": "Tue",
+        "holiday": "Holi"
+      },
+      {
+        "date": "10 Apr",
+        "day": "Fri",
+        "holiday": "Good Friday"
+      },
+      {
+        "date": "24 May",
+        "day": "Sun",
+        "holiday": "Idul Fitr"
+      },
+      {
+        "date": "17 Jul",
+        "day": "Fri",
+        "holiday": "U Tirot Sing Day"
+      },
+      {
+        "date": "31 Jul",
+        "day": "Fri",
+        "holiday": "Bakrid / Eid al Adha"
+      },
+      {
+        "date": "15 Aug",
+        "day": "Sat",
+        "holiday": "Independence Day"
+      },
+      {
+        "date": "2 Oct",
+        "day": "Fri",
+        "holiday": "Gandhi Jayanti"
+      },
+      {
+        "date": "25 Oct",
+        "day": "Sun",
+        "holiday": "Maha Navami"
+      },
+      {
+        "date": "26 Oct",
+        "day": "Mon",
+        "holiday": "Vijaya Dashami"
+      },
+      {
+        "date": "14 Nov",
+        "day": "Sat",
+        "holiday": "Diwali"
+      },
+      {
+        "date": "13 Nov",
+        "day": "Fri",
+        "holiday": "Wangala Festival"
+      },
+      {
+        "date": "23 Nov",
+        "day": "Mon",
+        "holiday": "Seng Kut Snem"
+      },
+      {
+        "date": "12 Dec",
+        "day": "Sat",
+        "holiday": "Pa Togan Nengminza Sangma"
+      },
+      {
+        "date": "18 Dec",
+        "day": "Fri",
+        "holiday": "Death Anniversary of U SoSo Tham"
+      },
+      {
+        "date": "25 Dec",
+        "day": "Fri",
+        "holiday": "Christmas Day"
+      },
+      {
+        "date": "30 Dec",
+        "day": "Wed",
+        "holiday": "U Kiang Nangbah"
+      }
+    ],
+    "Chandigarh": [
+      {
+        "date": "26 Jan",
+        "day": "Sun",
+        "holiday": "Republic Day"
+      },
+      {
+        "date": "19 Feb",
+        "day": "Wed",
+        "holiday": "Guru Ravidas Jayanti"
+      },
+      {
+        "date": "21 Feb",
+        "day": "Fri",
+        "holiday": "Maha Shivaratri"
+      },
+      {
+        "date": "10 Mar",
+        "day": "Tue",
+        "holiday": "Holi"
+      },
+      {
+        "date": "2 Apr",
+        "day": "Thur",
+        "holiday": "Ram Navami"
+      },
+      {
+        "date": "10 Apr",
+        "day": "Fri",
+        "holiday": "Good Friday"
+      },
+      {
+        "date": "24 May",
+        "day": "Sun",
+        "holiday": "Idul Fitr"
+      },
+      {
+        "date": "31 Jul",
+        "day": "Fri",
+        "holiday": "Bakrid / Eid al Adha"
+      },
+      {
+        "date": "15 Aug",
+        "day": "Sat",
+        "holiday": "Independence Day"
+      },
+      {
+        "date": "30 Aug",
+        "day": "Sun",
+        "holiday": "Muharram"
+      },
+      {
+        "date": "2 Oct",
+        "day": "Fri",
+        "holiday": "Gandhi Jayanti"
+      },
+      {
+        "date": "26 Oct",
+        "day": "Mon",
+        "holiday": "Vijaya Dashami"
+      },
+      {
+        "date": "31 Oct",
+        "day": "Sat",
+        "holiday": "Maharishi Valmiki Jayanti"
+      },
+      {
+        "date": "14 Nov",
+        "day": "Sat",
+        "holiday": "Diwali"
+      },
+      {
+        "date": "28 Oct",
+        "day": "Wed",
+        "holiday": "Eid e Milad"
+      },
+      {
+        "date": "30 Nov",
+        "day": "Mon",
+        "holiday": "Guru Nanak Jayanti"
+      },
+      {
+        "date": "25 Dec",
+        "day": "Fri",
+        "holiday": "Christmas Day"
+      }
+    ],
+    "Tripura": [
+      {
+        "date": "23 Jan",
+        "day": "Thu",
+        "holiday": "Netaji Subhas Chandra Bose Jayanti"
+      },
+      {
+        "date": "26 Jan",
+        "day": "Sun",
+        "holiday": "Republic Day"
+      },
+      {
+        "date": "30 Jan",
+        "day": "Thu",
+        "holiday": "Vasant Panchami"
+      },
+      {
+        "date": "21 Feb",
+        "day": "Fri",
+        "holiday": "Maha Shivaratri"
+      },
+      {
+        "date": "10 Mar",
+        "day": "Tue",
+        "holiday": "Holi"
+      },
+      {
+        "date": "14 Apr",
+        "day": "Tue",
+        "holiday": "Bengali New Year"
+      },
+      {
+        "date": "10 Apr",
+        "day": "Fri",
+        "holiday": "Good Friday"
+      },
+      {
+        "date": "21 Apr",
+        "day": "Tue",
+        "holiday": "Garia Puja"
+      },
+      {
+        "date": "1 May",
+        "day": "Fri",
+        "holiday": "May Day"
+      },
+      {
+        "date": "8 May",
+        "day": "Fri",
+        "holiday": "Guru Rabindranath Jayanti"
+      },
+      {
+        "date": "7 May",
+        "day": "Thu",
+        "holiday": "Buddha Purnima"
+      },
+      {
+        "date": "24 May",
+        "day": "Sun",
+        "holiday": "Kazi Nazrul Islam Jayanti"
+      },
+      {
+        "date": "23 May",
+        "day": "Sat",
+        "holiday": "Idul Fitr"
+      },
+      {
+        "date": "27 Jul",
+        "day": "Mon",
+        "holiday": "Kharchi Puja"
+      },
+      {
+        "date": "14 Jul",
+        "day": "Tue",
+        "holiday": "Ker Puja"
+      },
+      {
+        "date": "31 Jul",
+        "day": "Fri",
+        "holiday": "Bakrid / Eid al Adha"
+      },
+      {
+        "date": "15 Aug",
+        "day": "Sat",
+        "holiday": "Independence Day"
+      },
+      {
+        "date": "11 Aug",
+        "day": "Tue",
+        "holiday": "Janmashtami"
+      },
+      {
+        "date": "17 Sep",
+        "day": "Thu",
+        "holiday": "Mahalaya Amavasye"
+      },
+      {
+        "date": "2 Oct",
+        "day": "Fri",
+        "holiday": "Gandhi Jayanti"
+      },
+      {
+        "date": "23 Oct",
+        "day": "Fri",
+        "holiday": "Maha Saptami"
+      },
+      {
+        "date": "24 Oct",
+        "day": "Sat",
+        "holiday": "Maha Ashtami"
+      },
+      {
+        "date": "25 Oct",
+        "day": "Sun",
+        "holiday": "Maha Navami"
+      },
+      {
+        "date": "26 Oct",
+        "day": "Mon",
+        "holiday": "Vijaya Dashami"
+      },
+      {
+        "date": "13 Oct",
+        "day": "Sat",
+        "holiday": "Lakshmi Puja"
+      },
+      {
+        "date": "14 Nov",
+        "day": "Sat",
+        "holiday": "Diwali"
+      },
+      {
+        "date": "30 Oct",
+        "day": "Fri",
+        "holiday": "Eid e Milad"
+      },
+      {
+        "date": "25 Dec",
+        "day": "Fri",
+        "holiday": "Christmas Day"
+      }
+    ],
+    "Mizoram": [
+      {
+        "date": "1 Jan",
+        "day": "Wed",
+        "holiday": "New Year's Day"
+      },
+      {
+        "date": "2 Jan",
+        "day": "Thu",
+        "holiday": "New Year Holiday"
+      },
+      {
+        "date": "11 Jan",
+        "day": "Sat",
+        "holiday": "Missionary Day"
+      },
+      {
+        "date": "26 Jan",
+        "day": "Sun",
+        "holiday": "Republic Day"
+      },
+      {
+        "date": "20 Feb",
+        "day": "Thu",
+        "holiday": "State Day"
+      },
+      {
+        "date": "10 Mar",
+        "day": "Tue",
+        "holiday": "Holi"
+      },
+      {
+        "date": "10 Apr",
+        "day": "Fri",
+        "holiday": "Good Friday"
+      },
+      {
+        "date": "7 May",
+        "day": "Thu",
+        "holiday": "Buddha Purnima"
+      },
+      {
+        "date": "23 May",
+        "day": "Sat",
+        "holiday": "Idul Fitr"
+      },
+      {
+        "date": "15 Jun",
+        "day": "Mon",
+        "holiday": "YMA Day"
+      },
+      {
+        "date": "30 Jun",
+        "day": "Tue",
+        "holiday": "Remna Ni"
+      },
+      {
+        "date": "6 Jul",
+        "day": "Mon",
+        "holiday": "MHIP Day"
+      },
+      {
+        "date": "31 Jul",
+        "day": "Fri",
+        "holiday": "Bakrid / Eid al Adha"
+      },
+      {
+        "date": "15 Aug",
+        "day": "Sat",
+        "holiday": "Independence Day"
+      },
+      {
+        "date": "2 Oct",
+        "day": "Fri",
+        "holiday": "Gandhi Jayanti"
+      },
+      {
+        "date": "26 Oct",
+        "day": "Mon",
+        "holiday": "Vijaya Dashami"
+      },
+      {
+        "date": "14 Nov",
+        "day": "Sat",
+        "holiday": "Diwali"
+      },
+      {
+        "date": "25 Dec",
+        "day": "Fri",
+        "holiday": "Christmas Day"
+      }
+    ],
+    "Chhattisgarh": [
+      {
+        "date": "26 Jan",
+        "day": "Sun",
+        "holiday": "Republic Day"
+      },
+      {
+        "date": "21 Feb",
+        "day": "Fri",
+        "holiday": "Maha Shivaratri"
+      },
+      {
+        "date": "10 Mar",
+        "day": "Tue",
+        "holiday": "Holi"
+      },
+      {
+        "date": "2 Apr",
+        "day": "Thu",
+        "holiday": "Ram Navami"
+      },
+      {
+        "date": "14 Apr",
+        "day": "Tue",
+        "holiday": "Dr Ambedkar Jayanti"
+      },
+      {
+        "date": "6 Apr",
+        "day": "Mon",
+        "holiday": "Mahavir Jayanti"
+      },
+      {
+        "date": "10 Apr",
+        "day": "Fri",
+        "holiday": "Good Friday"
+      },
+      {
+        "date": "7 May ",
+        "day": "Thu",
+        "holiday": "Buddha Purnima"
+      },
+      {
+        "date": "23 May",
+        "day": "Sat",
+        "holiday": "Idul Fitr"
+      },
+      {
+        "date": "5 Jun",
+        "day": "Fri",
+        "holiday": "Sant Guru Kabir Jayanti"
+      },
+      {
+        "date": "31 Jul",
+        "day": "Fri",
+        "holiday": "Bakrid / Eid al Adha"
+      },
+      {
+        "date": "15 Aug",
+        "day": "Tue",
+        "holiday": "Independence Day"
+      },
+      {
+        "date": "3 Aug",
+        "day": "Mon",
+        "holiday": "Raksha Bandhan"
+      },
+      {
+        "date": "11 Aug",
+        "day": "Tue",
+        "holiday": "Janmashtami"
+      },
+      {
+        "date": "30 Aug",
+        "day": "Sun",
+        "holiday": "Muharram"
+      },
+      {
+        "date": "2 Oct",
+        "day": "Fri",
+        "holiday": "Gandhi Jayanti"
+      },
+      {
+        "date": "26 Oct",
+        "day": "Mon",
+        "holiday": "Vijaya Dashami"
+      },
+      {
+        "date": "14 Nov",
+        "day": "Sat",
+        "holiday": "Diwali"
+      },
+      {
+        "date": "30 Oct",
+        "day": "Fri",
+        "holiday": "Eid e Milad"
+      },
+      {
+        "date": "30 Nov",
+        "day": "Mon",
+        "holiday": "Guru Nanak Jayanti"
+      },
+      {
+        "date": "18 Dec",
+        "day": "Fri",
+        "holiday": "Guru Ghasidas Jayanti"
+      },
+      {
+        "date": "25 Dec",
+        "day": "Fri",
+        "holiday": "Christmas Day"
+      }
+    ],
+    "Nagaland": [
+      {
+        "date": "1 Jan",
+        "day": "Wed",
+        "holiday": "New Year's Day"
+      },
+      {
+        "date": "26 Jan",
+        "day": "Sun",
+        "holiday": "Republic Day"
+      },
+      {
+        "date": "10 Mar",
+        "day": "Tue",
+        "holiday": "Holi"
+      },
+      {
+        "date": "10 Apr",
+        "day": "Fri",
+        "holiday": "Good Friday"
+      },
+      {
+        "date": "11 Apr",
+        "day": "Sat",
+        "holiday": "Easter Saturday"
+      },
+      {
+        "date": "12 Apr",
+        "day": "Sun",
+        "holiday": "Easter Sunday"
+      },
+      {
+        "date": "23 May",
+        "day": "Sat",
+        "holiday": "Idul Fitr"
+      },
+      {
+        "date": "31 Jul",
+        "day": "Fri",
+        "holiday": "Bakrid / Eid al Adha"
+      },
+      {
+        "date": "15 Aug",
+        "day": "Sat",
+        "holiday": "Independence Day"
+      },
+      {
+        "date": "11 Aug",
+        "day": "Tue",
+        "holiday": "Janmashtami"
+      },
+      {
+        "date": "2 Oct",
+        "day": "Fri",
+        "holiday": "Gandhi Jayanti"
+      },
+      {
+        "date": "24 Oct",
+        "day": "Sat",
+        "holiday": "Maha Navami"
+      },
+      {
+        "date": "26 Oct",
+        "day": "Mon",
+        "holiday": "Vijaya Dashami"
+      },
+      {
+        "date": "14 Nov",
+        "day": "Sat",
+        "holiday": "Diwali"
+      },
+      {
+        "date": "30 Oct",
+        "day": "Fri",
+        "holiday": "Eid e Milad"
+      },
+      {
+        "date": "30 Nov",
+        "day": "Mon",
+        "holiday": "Guru Nanak Jayanti"
+      },
+      {
+        "date": "25 Dec",
+        "day": "Fri",
+        "holiday": "Christmas Day"
+      }
+    ],
+    "Dadra and Nagar Haveli": [
+      {
+        "date": "26 Jan",
+        "day": "Sun",
+        "holiday": "Republic Day"
+      },
+      {
+        "date": "10 Mar",
+        "day": "Tue",
+        "holiday": "Holi"
+      },
+      {
+        "date": "6 Apr",
+        "day": "Mon",
+        "holiday": "Mahavir Jayanti"
+      },
+      {
+        "date": "10 Apr",
+        "day": "Fri",
+        "holiday": "Good Friday"
+      },
+      {
+        "date": "23 May",
+        "day": "Sat",
+        "holiday": "Idul Fitr"
+      },
+      {
+        "date": "31 Jul",
+        "day": "Fri",
+        "holiday": "Bakrid / Eid al Adha"
+      },
+      {
+        "date": "15 Aug",
+        "day": "Sat",
+        "holiday": "Independence Day"
+      },
+      {
+        "date": "22 Aug",
+        "day": "Sat",
+        "holiday": "Ganesh Chaturthi"
+      },
+      {
+        "date": "30 Aug",
+        "day": "Sun",
+        "holiday": "Muharram"
+      },
+      {
+        "date": "2 Oct",
+        "day": "Fri",
+        "holiday": "Gandhi Jayanti"
+      },
+      {
+        "date": "26 Oct",
+        "day": "Mon",
+        "holiday": "Vijaya Dashami"
+      },
+      {
+        "date": "14 Nov",
+        "day": "Sat",
+        "holiday": "Diwali"
+      },
+      {
+        "date": "30 Oct",
+        "day": "Fri",
+        "holiday": "Eid e Milad"
+      },
+      {
+        "date": "30 Nov",
+        "day": "Mon",
+        "holiday": "Guru Nanak Jayanti"
+      },
+      {
+        "date": "25 Dec",
+        "day": "Fri",
+        "holiday": "Christmas Day"
+      }
+    ],
+    "Odisha": [
+      {
+        "date": "23 Jan",
+        "day": "Thu",
+        "holiday": "Netaji Subhas Chandra Bose Jayanti"
+      },
+      {
+        "date": "26 Jan",
+        "day": "Sun",
+        "holiday": "Republic Day"
+      },
+      {
+        "date": "30 Jan",
+        "day": "Thu",
+        "holiday": "Vasant Panchami"
+      },
+      {
+        "date": "21 Feb",
+        "day": "Fri",
+        "holiday": "Maha Shivaratri"
+      },
+      {
+        "date": "5 Mar",
+        "day": "Thu",
+        "holiday": "Panchayatiraj Divas"
+      },
+      {
+        "date": "10 Mar",
+        "day": "Tue",
+        "holiday": "Holi"
+      },
+      {
+        "date": "1 Apr",
+        "day": "Wed",
+        "holiday": "Odisha Day"
+      },
+      {
+        "date": "10 Apr",
+        "day": "Fri",
+        "holiday": "Ram Navami"
+      },
+      {
+        "date": "14 Apr",
+        "day": "Tue",
+        "holiday": "Dr Ambedkar Jayanti"
+      },
+      {
+        "date": "13 Apr",
+        "day": "Mon",
+        "holiday": "Maha Vishuba Sankranti"
+      },
+      {
+        "date": "10 Apr",
+        "day": "Fri",
+        "holiday": "Good Friday"
+      },
+      {
+        "date": "23 May",
+        "day": "Sat",
+        "holiday": "Idul Fitr"
+      },
+      {
+        "date": "15 Jun",
+        "day": "Sun",
+        "holiday": "Pahili Raja"
+      },
+      {
+        "date": "15 Jun",
+        "day": "Mon",
+        "holiday": "Raja Sankranti"
+      },
+      {
+        "date": "23 Jun",
+        "day": "Tue",
+        "holiday": "Ratha Yathra"
+      },
+      {
+        "date": "31 Jul",
+        "day": "Fri",
+        "holiday": "Bakrid / Eid al Adha"
+      },
+      {
+        "date": "15 Aug",
+        "day": "Sat",
+        "holiday": "Independence Day"
+      },
+      {
+        "date": "15 Aug",
+        "day": "Mon",
+        "holiday": "Jhulan Purnima"
+      },
+      {
+        "date": "11 Aug",
+        "day": "Tue",
+        "holiday": "Janmashtami"
+      },
+      {
+        "date": "22 Aug",
+        "day": "Sat",
+        "holiday": "Ganesh Chaturthi"
+      },
+      {
+        "date": "23 Aug",
+        "day": "Sun",
+        "holiday": "Nuakhai"
+      },
+      {
+        "date": "30 Aug",
+        "day": "Sun",
+        "holiday": "Muharram"
+      },
+      {
+        "date": "17 Sep",
+        "day": "Thu",
+        "holiday": "Mahalaya Amavasye"
+      },
+      {
+        "date": "2 Oct",
+        "day": "Fri",
+        "holiday": "Gandhi Jayanti"
+      },
+      {
+        "date": "23 Oct",
+        "day": "Fri",
+        "holiday": "Maha Saptami"
+      },
+      {
+        "date": "24 Oct",
+        "day": "Sat",
+        "holiday": "Maha Ashtami"
+      },
+      {
+        "date": "24 Oct",
+        "day": "Sat",
+        "holiday": "Maha Navami"
+      },
+      {
+        "date": "26 Oct",
+        "day": "Mon",
+        "holiday": "Vijaya Dashami"
+      },
+      {
+        "date": "31 Oct",
+        "day": "Sat",
+        "holiday": "Lakshmi Puja"
+      },
+      {
+        "date": "14 Nov",
+        "day": "Sat",
+        "holiday": "Diwali"
+      },
+      {
+        "date": "30 Oct",
+        "day": "Fri",
+        "holiday": "Eid e Milad"
+      },
+      {
+        "date": "30 Nov",
+        "day": "Mon",
+        "holiday": "Karthika Purnima"
+      },
+      {
+        "date": "25 Dec",
+        "day": "Fri",
+        "holiday": "Christmas Day"
+      }
+    ],
+    "Daman and Diu": [
+      {
+        "date": "26 Jan",
+        "day": "Sun",
+        "holiday": "Republic Day"
+      },
+      {
+        "date": "21 Feb",
+        "day": "Fri",
+        "holiday": "Maha Shivaratri"
+      },
+      {
+        "date": "10 Mar",
+        "day": "Tue",
+        "holiday": "Holi"
+      },
+      {
+        "date": "2 Apr",
+        "day": "Thu",
+        "holiday": "Ram Navami"
+      },
+      {
+        "date": "10 Apr",
+        "day": "Fri",
+        "holiday": "Good Friday"
+      },
+      {
+        "date": "23 May",
+        "day": "Sat",
+        "holiday": "Idul Fitr"
+      },
+      {
+        "date": "15 Aug",
+        "day": "Sat",
+        "holiday": "Independence Day"
+      },
+      {
+        "date": "3 Aug",
+        "day": "Mon",
+        "holiday": "Raksha Bandhan"
+      },
+      {
+        "date": "24 Aug",
+        "day": "Sat",
+        "holiday": "Janmashtami"
+      },
+      {
+        "date": "22 Aug",
+        "day": "Sat",
+        "holiday": "Ganesh Chaturthi"
+      },
+      {
+        "date": "2 Oct",
+        "day": "Fri",
+        "holiday": "Gandhi Jayanti"
+      },
+      {
+        "date": "26 Oct",
+        "day": "Mon",
+        "holiday": "Vijaya Dashami"
+      },
+      {
+        "date": "14 Nov",
+        "day": "Sat",
+        "holiday": "Diwali"
+      },
+      {
+        "date": "14 Nov",
+        "day": "Sat",
+        "holiday": "Deepavali Holiday"
+      },
+      {
+        "date": "30 Oct",
+        "day": "Fri",
+        "holiday": "Eid e Milad"
+      },
+      {
+        "date": "19 Dec",
+        "day": "Sat",
+        "holiday": "Liberation Day"
+      },
+      {
+        "date": "25 Dec",
+        "day": "Fri",
+        "holiday": "Christmas Day"
+      }
+    ],
+    "Puducherry": [
+      {
+        "date": "1 Jan",
+        "day": "Wed",
+        "holiday": "New Year's Day"
+      },
+      {
+        "date": "15 Jan",
+        "day": "Mon",
+        "holiday": "Pongal"
+      },
+      {
+        "date": "17 Jan",
+        "day": "Fri",
+        "holiday": "Uzhavar Thirunal"
+      },
+      {
+        "date": "26 Jan",
+        "day": "Sun",
+        "holiday": "Republic Day"
+      },
+      {
+        "date": "10 Apr",
+        "day": "Fri",
+        "holiday": "Good Friday"
+      },
+      {
+        "date": "1 May",
+        "day": "Fri",
+        "holiday": "May Day"
+      },
+      {
+        "date": "23 May",
+        "day": "Sat",
+        "holiday": "Idul Fitr"
+      },
+      {
+        "date": "31 Jul",
+        "day": "Fri",
+        "holiday": "Bakrid / Eid al Adha"
+      },
+      {
+        "date": "15 Aug",
+        "day": "Sat",
+        "holiday": "Independence Day"
+      },
+      {
+        "date": "16 Aug",
+        "day": "Sun",
+        "holiday": "De Jure Transfer Day"
+      },
+      {
+        "date": "22 Aug",
+        "day": "Sat",
+        "holiday": "Ganesh Chaturthi"
+      },
+      {
+        "date": "2 Oct",
+        "day": "Fri",
+        "holiday": "Gandhi Jayanti"
+      },
+      {
+        "date": "24 Oct",
+        "day": "Sat",
+        "holiday": "Maha Navami"
+      },
+      {
+        "date": "14 Nov",
+        "day": "Sat",
+        "holiday": "Deepavali"
+      },
+      {
+        "date": "1 Nov",
+        "day": "Sun",
+        "holiday": "Puducherry Liberation Day"
+      },
+      {
+        "date": "30 Oct",
+        "day": "Fri",
+        "holiday": "Eid e Milad"
+      },
+      {
+        "date": "25 Dec",
+        "day": "Fri",
+        "holiday": "Christmas Day"
+      }
+    ],
+    "Delhi": [
+      {
+        "date": "26 Jan",
+        "day": "Sun",
+        "holiday": "Republic Day"
+      },
+      {
+        "date": "21 Feb",
+        "day": "Fri",
+        "holiday": "Maha Shivaratri"
+      },
+      {
+        "date": "10 Mar",
+        "day": "Tue",
+        "holiday": "Holi"
+      },
+      {
+        "date": "2 Apr",
+        "day": "Thu",
+        "holiday": "Ram Navami"
+      },
+      {
+        "date": "6 Apr",
+        "day": "Mon",
+        "holiday": "Mahavir Jayanti"
+      },
+      {
+        "date": "10 Apr",
+        "day": "Fri",
+        "holiday": "Good Friday"
+      },
+      {
+        "date": "7 May",
+        "day": "Thu",
+        "holiday": "Buddha Purnima"
+      },
+      {
+        "date": "23 May",
+        "day": "Sat",
+        "holiday": "Idul Fitr"
+      },
+      {
+        "date": "31 Jul",
+        "day": "Fri",
+        "holiday": "Bakrid / Eid al Adha"
+      },
+      {
+        "date": "15 Aug",
+        "day": "Sat",
+        "holiday": "Independence Day"
+      },
+      {
+        "date": "11 Aug",
+        "day": "Tue",
+        "holiday": "Janmashtami"
+      },
+      {
+        "date": "30 Aug",
+        "day": "Sun",
+        "holiday": "Muharram"
+      },
+      {
+        "date": "2 Oct",
+        "day": "Wed",
+        "holiday": "Gandhi Jayanti"
+      },
+      {
+        "date": "8 Oct",
+        "day": "Tue",
+        "holiday": "Vijaya Dashami"
+      },
+      {
+        "date": "13 Oct",
+        "day": "Sun",
+        "holiday": "Maharishi Valmiki Jayanti"
+      },
+      {
+        "date": "27 Oct",
+        "day": "Sun",
+        "holiday": "Diwali"
+      },
+      {
+        "date": "10 Nov",
+        "day": "Sun",
+        "holiday": "Eid e Milad"
+      },
+      {
+        "date": "12 Nov",
+        "day": "Tue",
+        "holiday": "Guru Nanak Jayanti"
+      },
+      {
+        "date": "25 Dec",
+        "day": "Wed",
+        "holiday": "Christmas Day"
+      }
+    ],
+    "Punjab": [
+      {
+        "date": "26 Jan",
+        "day": "Sun",
+        "holiday": "Republic Day"
+      },
+      {
+        "date": "30 Jan",
+        "day": "Thu",
+        "holiday": "Vasant Panchami"
+      },
+      {
+        "date": "9 Feb",
+        "day": "Sun",
+        "holiday": "Guru Ravidas Jayanti"
+      },
+      {
+        "date": "21 Feb",
+        "day": "Fri",
+        "holiday": "Maha Shivaratri"
+      },
+      {
+        "date": "10 Mar",
+        "day": "Tue",
+        "holiday": "Holi"
+      },
+      {
+        "date": "23 Mar",
+        "day": "Mon",
+        "holiday": "S. Bhagat Singh's Martyrdom Day"
+      },
+      {
+        "date": "2 Apr",
+        "day": "Thu",
+        "holiday": "Ram Navami"
+      },
+      {
+        "date": "14 Apr",
+        "day": "Tue",
+        "holiday": "Dr Ambedkar Jayanti"
+      },
+      {
+        "date": "13 Apr",
+        "day": "Mon",
+        "holiday": "Vaisakh"
+      },
+      {
+        "date": "6 Apr",
+        "day": "Mon",
+        "holiday": "Mahavir Jayanti"
+      },
+      {
+        "date": "10 Apr",
+        "day": "Fri",
+        "holiday": "Good Friday"
+      },
+      {
+        "date": "1 May",
+        "day": "Fri",
+        "holiday": "May Day"
+      },
+      {
+        "date": "24 May",
+        "day": "Sun",
+        "holiday": "Idul Fitr"
+      },
+      {
+        "date": "26 May",
+        "day": "Tue",
+        "holiday": "Sri Guru Arjun Dev Ji's Martyrdom Day"
+      },
+      {
+        "date": "5 Jun",
+        "day": "Fri",
+        "holiday": "Sant Guru Kabir Jayanti"
+      },
+      {
+        "date": "31 Jul",
+        "day": "Fri",
+        "holiday": "Shaheed Udham Singh's Martyrdom Day"
+      },
+      {
+        "date": "31 Jul",
+        "day": "Fri",
+        "holiday": "Bakrid / Eid al Adha"
+      },
+      {
+        "date": "15 Aug",
+        "day": "Sat",
+        "holiday": "Independence Day"
+      },
+      {
+        "date": "11 Aug",
+        "day": "Tue",
+        "holiday": "Janmashtami"
+      },
+      {
+        "date": "17 Oct",
+        "day": "Sat",
+        "holiday": "Maharaja Agrasen Jayanti"
+      },
+      {
+        "date": "20 Aug",
+        "day": "Thu",
+        "holiday": "Parkash Utsav Sri Guru Granth Sahib Ji"
+      },
+      {
+        "date": "27 Aug",
+        "day": "Thu ",
+        "holiday": "Baba Sri Chand Ji Jayanti"
+      },
+      {
+        "date": "28 Sep",
+        "day": "Mon",
+        "holiday": "S. Bhagat Singh Ji Jayanti"
+      },
+      {
+        "date": "2 Oct",
+        "day": "Fri",
+        "holiday": "Gandhi Jayanti"
+      },
+      {
+        "date": "26 Oct",
+        "day": "Mon",
+        "holiday": "Vijaya Dashami"
+      },
+      {
+        "date": "13 Oct",
+        "day": "Sat",
+        "holiday": "Maharishi Valmiki Jayanti"
+      },
+      {
+        "date": "2 Nov",
+        "day": "Mon",
+        "holiday": "Parkash Gurpurab of Sri Guru Ram Dass Ji"
+      },
+      {
+        "date": "14 Nov",
+        "day": "Sat",
+        "holiday": "Diwali"
+      },
+      {
+        "date": "14 Nov",
+        "day": "Mon",
+        "holiday": "Deepavali Holiday"
+      },
+      {
+        "date": "30 Nov",
+        "day": "Mon",
+        "holiday": "Guru Nanak Jayanti"
+      },
+      {
+        "date": "16 Nov",
+        "day": "Mon",
+        "holiday": "Shahidi Diwas S. Kartar Singh Sarabha Ji"
+      },
+      {
+        "date": "19 Dec",
+        "day": "Sat",
+        "holiday": "Sri Guru Teg Bahadur Ji's Martyrdom Day"
+      },
+      {
+        "date": "25 Dec",
+        "day": "Fri",
+        "holiday": "Christmas Day"
+      }
+    ],
+    "Goa": [
+      {
+        "date": "26 Jan",
+        "day": "Sun",
+        "holiday": "Republic Day"
+      },
+      {
+        "date": "10 Mar",
+        "day": "Tue",
+        "holiday": "Holi"
+      },
+      {
+        "date": "25 Mar",
+        "day": "Wed",
+        "holiday": "Ugadi"
+      },
+      {
+        "date": "14 Apr",
+        "day": "Sun",
+        "holiday": "Dr Ambedkar Jayanti"
+      },
+      {
+        "date": "10 Apr",
+        "day": "Fri",
+        "holiday": "Good Friday"
+      },
+      {
+        "date": "1 May",
+        "day": "Fri",
+        "holiday": "May Day"
+      },
+      {
+        "date": "24 May",
+        "day": "Sun",
+        "holiday": "Idul Fitr"
+      },
+      {
+        "date": "31 Jul",
+        "day": "Fri ",
+        "holiday": "Bakrid / Eid al Adha"
+      },
+      {
+        "date": "15 Aug",
+        "day": "Sat",
+        "holiday": "Independence Day"
+      },
+      {
+        "date": "22 Aug",
+        "day": "Sat ",
+        "holiday": "Ganesh Chaturthi"
+      },
+      {
+        "date": "23 Aug",
+        "day": "Sun",
+        "holiday": "Ganesh Chaturthi Holiday"
+      },
+      {
+        "date": "2 Oct",
+        "day": "Fri",
+        "holiday": "Gandhi Jayanti"
+      },
+      {
+        "date": "26 Oct",
+        "day": "Mon",
+        "holiday": "Vijaya Dashami"
+      },
+      {
+        "date": "14 Nov",
+        "day": "Sat",
+        "holiday": "Deepavali"
+      },
+      {
+        "date": "3 Dec",
+        "day": "Thu",
+        "holiday": "Feast of St Francis Xavier"
+      },
+      {
+        "date": "19 Dec",
+        "day": "Sat",
+        "holiday": "Liberation Day"
+      },
+      {
+        "date": "25 Dec",
+        "day": "Fri",
+        "holiday": "Christmas Day"
+      }
+    ],
+    "Rajasthan": [
+      {
+        "date": "1 Jan",
+        "day": "Wed",
+        "holiday": "New Year's Day"
+      },
+      {
+        "date": "2 Jan",
+        "day": "Thu",
+        "holiday": "Guru Gobind Singh Jayanti"
+      },
+      {
+        "date": "26 Jan",
+        "day": "Sun",
+        "holiday": "Republic Day"
+      },
+      {
+        "date": "21 Feb",
+        "day": "Fri",
+        "holiday": "Maha Shivaratri"
+      },
+      {
+        "date": "10 Mar",
+        "day": "Tue",
+        "holiday": "Holi"
+      },
+      {
+        "date": "25 Mar",
+        "day": "Wed",
+        "holiday": "Ugadi"
+      },
+      {
+        "date": "2 Apr",
+        "day": "Thu",
+        "holiday": "Ram Navami"
+      },
+      {
+        "date": "14 Apr",
+        "day": "Tue",
+        "holiday": "Dr Ambedkar Jayanti"
+      },
+      {
+        "date": "6 Apr",
+        "day": "Mon",
+        "holiday": "Mahavir Jayanti"
+      },
+      {
+        "date": "10 Apr",
+        "day": "Fri",
+        "holiday": "Good Friday"
+      },
+      {
+        "date": "25 Apr",
+        "day": "Sat",
+        "holiday": "Maharshi Parasuram Jayanti"
+      },
+      {
+        "date": "24 May",
+        "day": "Sun",
+        "holiday": "Idul Fitr"
+      },
+      {
+        "date": "25 May",
+        "day": "Mon",
+        "holiday": "Maharana Pratap Jayanti"
+      },
+      {
+        "date": "31 Jul",
+        "day": "Fri",
+        "holiday": "Bakrid / Eid al Adha"
+      },
+      {
+        "date": "15 Aug",
+        "day": "Sat",
+        "holiday": "Independence Day"
+      },
+      {
+        "date": "3 Aug",
+        "day": "Mon",
+        "holiday": "Raksha Bandhan"
+      },
+      {
+        "date": "11 Aug",
+        "day": "Tue",
+        "holiday": "Janmashtami"
+      },
+      {
+        "date": "17 Oct",
+        "day": "Sat",
+        "holiday": "Ghatasthapana"
+      },
+      {
+        "date": "28 Aug",
+        "day": "Fri",
+        "holiday": "Ramdev Jayanti"
+      },
+      {
+        "date": "28 Aug",
+        "day": "Fri",
+        "holiday": "Teja Dashmi"
+      },
+      {
+        "date": "20 Aug",
+        "day": "Thu",
+        "holiday": "Muharram"
+      },
+      {
+        "date": "2 Oct",
+        "day": "Fri",
+        "holiday": "Gandhi Jayanti"
+      },
+      {
+        "date": "24 Oct",
+        "day": "Sat",
+        "holiday": "Maha Ashtami"
+      },
+      {
+        "date": "26 Oct",
+        "day": "Mon",
+        "holiday": "Vijaya Dashami"
+      },
+      {
+        "date": "14 Nov",
+        "day": "Sat",
+        "holiday": "Diwali"
+      },
+      {
+        "date": "15 Nov",
+        "day": "Sun",
+        "holiday": "Deepavali Holiday"
+      },
+      {
+        "date": "16 Nov",
+        "day": "Mon",
+        "holiday": "Bhai Dooj"
+      },
+      {
+        "date": "30 Oct",
+        "day": "Fri",
+        "holiday": "Eid e Milad"
+      },
+      {
+        "date": "30 Nov",
+        "day": "Mon",
+        "holiday": "Guru Nanak Jayanti"
+      },
+      {
+        "date": "25 Dec",
+        "day": "Fri",
+        "holiday": "Christmas Day"
+      }
+    ],
+    "Gujarat": [
+      {
+        "date": "15 Jan",
+        "day": "Wed",
+        "holiday": "Makara Sankranti"
+      },
+      {
+        "date": "26 Jan",
+        "day": "Sun",
+        "holiday": "Republic Day"
+      },
+      {
+        "date": "21 Feb",
+        "day": "Fri",
+        "holiday": "Maha Shivaratri"
+      },
+      {
+        "date": "10 Mar",
+        "day": "Tue",
+        "holiday": "Holi"
+      },
+      {
+        "date": "25 Mar",
+        "day": "Wed",
+        "holiday": "Ugadi"
+      },
+      {
+        "date": "2 Apr",
+        "day": "Thu",
+        "holiday": "Ram Navami"
+      },
+      {
+        "date": "14 Apr",
+        "day": "Tue",
+        "holiday": "Dr Ambedkar Jayanti"
+      },
+      {
+        "date": "6 Apr",
+        "day": "Mon",
+        "holiday": "Mahavir Jayanti"
+      },
+      {
+        "date": "10 Apr",
+        "day": "Fri",
+        "holiday": "Good Friday"
+      },
+      {
+        "date": "25 Apr",
+        "day": "Sat",
+        "holiday": "Maharshi Parasuram Jayanti"
+      },
+      {
+        "date": "24 May",
+        "day": "Sun",
+        "holiday": "Idul Fitr"
+      },
+      {
+        "date": "31 Jul",
+        "day": "Fri",
+        "holiday": "Bakrid / Eid al Adha"
+      },
+      {
+        "date": "15 Aug",
+        "day": "Sat",
+        "holiday": "Independence Day"
+      },
+      {
+        "date": "3 Aug",
+        "day": "Mon",
+        "holiday": "Raksha Bandhan"
+      },
+      {
+        "date": "17 Aug",
+        "day": "Mon",
+        "holiday": "Parsi New Year"
+      },
+      {
+        "date": "11 Aug",
+        "day": "Tue",
+        "holiday": "Janmashtami"
+      },
+      {
+        "date": "22 Aug",
+        "day": "Sat",
+        "holiday": "Ganesh Chaturthi"
+      },
+      {
+        "date": "30 Aug",
+        "day": "Sun",
+        "holiday": "Muharram"
+      },
+      {
+        "date": "2 Oct",
+        "day": "Fri",
+        "holiday": "Gandhi Jayanti"
+      },
+      {
+        "date": "26 Oct",
+        "day": "Mon",
+        "holiday": "Vijaya Dashami"
+      },
+      {
+        "date": "14 Nov",
+        "day": "Sat",
+        "holiday": "Diwali"
+      },
+      {
+        "date": "15 Nov",
+        "day": "Sun",
+        "holiday": "Vikram Samvat New Year"
+      },
+      {
+        "date": "16 Nov",
+        "day": "Mon",
+        "holiday": "Bhai Dooj"
+      },
+      {
+        "date": "31 Oct",
+        "day": "Sat",
+        "holiday": "Sardar Vallabhbhai Patel Jayanti"
+      },
+      {
+        "date": "30 Oct",
+        "day": "Fri",
+        "holiday": "Eid e Milad"
+      },
+      {
+        "date": "30 Nov-",
+        "day": "Mon",
+        "holiday": "Guru Nanak Jayanti"
+      },
+      {
+        "date": "25 Dec",
+        "day": "Fri",
+        "holiday": "Christmas Day"
+      }
+    ],
+    "Sikkim": [
+      {
+        "date": "1 Jan",
+        "day": "Wed",
+        "holiday": "New Year's Day"
+      },
+      {
+        "date": "15 Jan",
+        "day": "Wed",
+        "holiday": "Makara Sankranti"
+      },
+      {
+        "date": "26 Jan",
+        "day": "Sun",
+        "holiday": "Republic Day"
+      },
+      {
+        "date": "25 Jan",
+        "day": "Sat",
+        "holiday": "Sonam Losar"
+      },
+      {
+        "date": "25 Feb",
+        "day": "Tue",
+        "holiday": "Losar"
+      },
+      {
+        "date": "10 Mar",
+        "day": "Tue",
+        "holiday": "Holi"
+      },
+      {
+        "date": "2 Apr",
+        "day": "Thu",
+        "holiday": "Ram Navami"
+      },
+      {
+        "date": "14 Apr",
+        "day": "Tue",
+        "holiday": "Dr Ambedkar Jayanti"
+      },
+      {
+        "date": "10 Apr",
+        "day": "Fri",
+        "holiday": "Good Friday"
+      },
+      {
+        "date": "16 May",
+        "day": "Sat",
+        "holiday": "State Day"
+      },
+      {
+        "date": "24 May",
+        "day": "Sun",
+        "holiday": "Idul Fitr"
+      },
+      {
+        "date": "13 Jul",
+        "day": "Mon",
+        "holiday": "Bhanu Jayanti"
+      },
+      {
+        "date": "8 Aug",
+        "day": "Sat",
+        "holiday": "Tendong Lho Rum Faat"
+      },
+      {
+        "date": "15 Aug",
+        "day": "Sat",
+        "holiday": "Independence Day"
+      },
+      {
+        "date": "11 Aug",
+        "day": "Tue",
+        "holiday": "Janmashtami"
+      },
+      {
+        "date": "1 Sep",
+        "day": "Tue",
+        "holiday": "Indra Jatra"
+      },
+      {
+        "date": "2 Oct",
+        "day": "Fri",
+        "holiday": "Gandhi Jayanti"
+      },
+      {
+        "date": "23 Oct",
+        "day": "Fri",
+        "holiday": "Maha Saptami"
+      },
+      {
+        "date": "24 Oct",
+        "day": "Sat",
+        "holiday": "Maha Ashtami"
+      },
+      {
+        "date": "25 Oct",
+        "day": "Sun",
+        "holiday": "Maha Navami"
+      },
+      {
+        "date": "26 Oct",
+        "day": "Mon",
+        "holiday": "Vijaya Dashami"
+      },
+      {
+        "date": "6 Nov",
+        "day": "Fri",
+        "holiday": "Lhabab Duchen"
+      },
+      {
+        "date": "14 Nov",
+        "day": "Sat",
+        "holiday": "Diwali"
+      },
+      {
+        "date": "16 Nov",
+        "day": "Mon",
+        "holiday": "Bhai Dooj"
+      },
+      {
+        "date": "25 Dec",
+        "day": "Fri",
+        "holiday": "Christmas Day"
+      },
+      {
+        "date": "30 Dec",
+        "day": "Wed",
+        "holiday": "Tamu Losar"
+      }
+    ],
+    "Haryana": [
+      {
+        "date": "2 Jan",
+        "day": "Thu",
+        "holiday": "Guru Gobind Singh Jayanti"
+      },
+      {
+        "date": "26 Jan",
+        "day": "Sun",
+        "holiday": "Republic Day"
+      },
+      {
+        "date": "30 Jan",
+        "day": "Thu",
+        "holiday": "Vasant Panchami"
+      },
+      {
+        "date": "9 Feb",
+        "day": "Sun",
+        "holiday": "Guru Ravidas Jayanti"
+      },
+      {
+        "date": "21 Feb",
+        "day": "Fri",
+        "holiday": "Maha Shivaratri"
+      },
+      {
+        "date": "10 Mar",
+        "day": "Tue",
+        "holiday": "Holi"
+      },
+      {
+        "date": "23 Mar",
+        "day": "Mon ",
+        "holiday": "S. Bhagat Singh's Martyrdom Day"
+      },
+      {
+        "date": "2 Apr",
+        "day": "Thu",
+        "holiday": "Ram Navami"
+      },
+      {
+        "date": "14 Apr",
+        "day": "Tue",
+        "holiday": "Dr Ambedkar Jayanti"
+      },
+      {
+        "date": "13 Apr",
+        "day": "Mon",
+        "holiday": "Vaisakh"
+      },
+      {
+        "date": "6 Apr",
+        "day": "Mon",
+        "holiday": "Mahavir Jayanti"
+      },
+      {
+        "date": "25 Apr",
+        "day": "Sat",
+        "holiday": "Maharshi Parasuram Jayanti"
+      },
+      {
+        "date": "7 May",
+        "day": "Thu",
+        "holiday": "Buddha Purnima"
+      },
+      {
+        "date": "24 May",
+        "day": "Sun",
+        "holiday": "Idul Fitr"
+      },
+      {
+        "date": "25 May",
+        "day": "Mon",
+        "holiday": "Maharana Pratap Jayanti"
+      },
+      {
+        "date": "5 Jun",
+        "day": "Fri",
+        "holiday": "Sant Guru Kabir Jayanti"
+      },
+      {
+        "date": "23 Jul",
+        "day": "Thu",
+        "holiday": "Haryali Teej"
+      },
+      {
+        "date": "31 Jul",
+        "day": "Fri",
+        "holiday": "Bakrid / Eid al Adha"
+      },
+      {
+        "date": "15 Aug",
+        "day": "Sat",
+        "holiday": "Independence Day"
+      },
+      {
+        "date": "11 Aug",
+        "day": "Tue",
+        "holiday": "Janmashtami"
+      },
+      {
+        "date": "17 Oct",
+        "day": "Sat",
+        "holiday": "Maharaja Agrasen Jayanti"
+      },
+      {
+        "date": "30 Aug",
+        "day": "Sun",
+        "holiday": "Muharram"
+      },
+      {
+        "date": "23 Sep",
+        "day": "Wed",
+        "holiday": "Heroes' Martyrdom Day"
+      },
+      {
+        "date": "2 Oct",
+        "day": "Fri",
+        "holiday": "Gandhi Jayanti"
+      },
+      {
+        "date": "26 Oct",
+        "day": "Mon",
+        "holiday": "Vijaya Dashami"
+      },
+      {
+        "date": "31 Oct",
+        "day": "Sat",
+        "holiday": "Maharishi Valmiki Jayanti"
+      },
+      {
+        "date": "14 Nov",
+        "day": "Sat",
+        "holiday": "Diwali"
+      },
+      {
+        "date": "15 Nov",
+        "day": "Sun",
+        "holiday": "Deepavali Holiday"
+      },
+      {
+        "date": "1 Nov",
+        "day": "Sun",
+        "holiday": "Haryana Day"
+      },
+      {
+        "date": "30 Oct",
+        "day": "Fri",
+        "holiday": "Eid e Milad"
+      },
+      {
+        "date": "30 Nov",
+        "day": "Mon",
+        "holiday": "Guru Nanak Jayanti"
+      },
+      {
+        "date": "25 Dec",
+        "day": "Fri",
+        "holiday": "Christmas Day"
+      },
+      {
+        "date": "26 Dec",
+        "day": "Sat",
+        "holiday": "Shaheed Udham Singh Jayanti"
+      }
+    ],
+    "Tamil Nadu": [
+      {
+        "date": "1 Jan",
+        "day": "Wed",
+        "holiday": "New Year's Day"
+      },
+      {
+        "date": "15 Jan",
+        "day": "Wed",
+        "holiday": "Pongal"
+      },
+      {
+        "date": "16 Jan",
+        "day": "Thu",
+        "holiday": "Thiruvalluvar Day"
+      },
+      {
+        "date": "26 Jan",
+        "day": "Sun",
+        "holiday": "Republic Day"
+      },
+      {
+        "date": "25 Mar",
+        "day": "Wed",
+        "holiday": "Telugu New Year"
+      },
+      {
+        "date": "14 Apr",
+        "day": "Tue",
+        "holiday": "Dr Ambedkar Jayanti"
+      },
+      {
+        "date": "14 Apr",
+        "day": "Tue",
+        "holiday": "Tamil New Year"
+      },
+      {
+        "date": "6 Apr",
+        "day": "Mon",
+        "holiday": "Mahavir Jayanti"
+      },
+      {
+        "date": "10 Apr",
+        "day": "Fri",
+        "holiday": "Good Friday"
+      },
+      {
+        "date": "1 May",
+        "day": "Fri",
+        "holiday": "May Day"
+      },
+      {
+        "date": "24 May",
+        "day": "Sun",
+        "holiday": "Idul Fitr"
+      },
+      {
+        "date": "31 Jul",
+        "day": "Fri",
+        "holiday": "Bakrid / Eid al Adha"
+      },
+      {
+        "date": "15 Aug",
+        "day": "Sat",
+        "holiday": "Independence Day"
+      },
+      {
+        "date": "11 Aug",
+        "day": "Tue",
+        "holiday": "Janmashtami"
+      },
+      {
+        "date": "22 Aug",
+        "day": "Sat",
+        "holiday": "Ganesh Chaturthi"
+      },
+      {
+        "date": "30 Aug",
+        "day": "Sun",
+        "holiday": "Muharram"
+      },
+      {
+        "date": "2 Oct",
+        "day": "Fri",
+        "holiday": "Gandhi Jayanti"
+      },
+      {
+        "date": "25 Oct",
+        "day": "Sun",
+        "holiday": "Maha Navami"
+      },
+      {
+        "date": "26 Oct",
+        "day": "Mon",
+        "holiday": "Vijaya Dashami"
+      },
+      {
+        "date": "14 Nov",
+        "day": "Sat",
+        "holiday": "Deepavali"
+      },
+      {
+        "date": "30 Oct",
+        "day": "Fri",
+        "holiday": "Eid e Milad"
+      },
+      {
+        "date": "25 Dec",
+        "day": "Fri",
+        "holiday": "Christmas Day"
+      }
+    ],
+    "Himachal Pradesh": [
+      {
+        "date": "25 Jan",
+        "day": "Fri",
+        "holiday": "State Day"
+      },
+      {
+        "date": "26 Jan",
+        "day": "Sun",
+        "holiday": "Republic Day"
+      },
+      {
+        "date": "9 Feb",
+        "day": "Sun",
+        "holiday": "Guru Ravidas Jayanti"
+      },
+      {
+        "date": "21 Feb",
+        "day": "Fri",
+        "holiday": "Maha Shivaratri"
+      },
+      {
+        "date": "10 Mar",
+        "day": "Tue",
+        "holiday": "Holi"
+      },
+      {
+        "date": "2 Apr",
+        "day": "Thu",
+        "holiday": "Ram Navami"
+      },
+      {
+        "date": "14 Apr",
+        "day": "Tue",
+        "holiday": "Dr Ambedkar Jayanti"
+      },
+      {
+        "date": "15 Apr",
+        "day": "Wed",
+        "holiday": "Himachal Day"
+      },
+      {
+        "date": "10 Apr",
+        "day": "Fri",
+        "holiday": "Good Friday"
+      },
+      {
+        "date": "25 Apr",
+        "day": "Sat",
+        "holiday": "Maharshi Parasuram Jayanti"
+      },
+      {
+        "date": "7 May ",
+        "day": "Thu",
+        "holiday": "Buddha Purnima"
+      },
+      {
+        "date": "24 May",
+        "day": "Sun",
+        "holiday": "Idul Fitr"
+      },
+      {
+        "date": "25 May",
+        "day": "Mon",
+        "holiday": "Maharana Pratap Jayanti"
+      },
+      {
+        "date": "5 Jun",
+        "day": "Fri",
+        "holiday": "Sant Guru Kabir Jayanti"
+      },
+      {
+        "date": "31 Jul",
+        "day": "Fri",
+        "holiday": "Bakrid / Eid al Adha"
+      },
+      {
+        "date": "15 Aug",
+        "day": "Sat",
+        "holiday": "Independence Day"
+      },
+      {
+        "date": "11 Aug",
+        "day": "Tue",
+        "holiday": "Janmashtami"
+      },
+      {
+        "date": "30 Aug",
+        "day": "Sun",
+        "holiday": "Muharram"
+      },
+      {
+        "date": "2 Oct",
+        "day": "Fri",
+        "holiday": "Gandhi Jayanti"
+      },
+      {
+        "date": "26 Oct",
+        "day": "Mon",
+        "holiday": "Vijaya Dashami"
+      },
+      {
+        "date": "31 Oct",
+        "day": "Sat",
+        "holiday": "Maharishi Valmiki Jayanti"
+      },
+      {
+        "date": "14 Nov",
+        "day": "Sat",
+        "holiday": "Diwali"
+      },
+      {
+        "date": "30 Nov",
+        "day": "Mon",
+        "holiday": "Guru Nanak Jayanti"
+      },
+      {
+        "date": "25 Dec",
+        "day": "Fri",
+        "holiday": "Christmas Day"
+      }
+    ],
+    "Jammu & Kashmir": [
+      {
+        "date": "26 Jan",
+        "day": "Sun",
+        "holiday": "Republic Day"
+      },
+      {
+        "date": "4 Mar",
+        "day": "Fri",
+        "holiday": "Maha Shivaratri"
+      },
+      {
+        "date": "20 Mar",
+        "day": "Wed",
+        "holiday": "Holi"
+      },
+      {
+        "date": "25 Mar",
+        "day": "Wed",
+        "holiday": "Ugadi"
+      },
+      {
+        "date": "14 Apr",
+        "day": "Tue",
+        "holiday": "Dr Ambedkar Jayanti"
+      },
+      {
+        "date": "13 Apr",
+        "day": "Mon",
+        "holiday": "Vaisakh"
+      },
+      {
+        "date": "7 May",
+        "day": "Thu",
+        "holiday": "Buddha Purnima"
+      },
+      {
+        "date": "22 May",
+        "day": "Fri",
+        "holiday": "Jumat-ul-Wida"
+      },
+      {
+        "date": "21 May",
+        "day": "Thu",
+        "holiday": "Shab-i-Qadr"
+      },
+      {
+        "date": "24 May",
+        "day": "Sun",
+        "holiday": "Idul Fitr"
+      },
+      {
+        "date": "5 Jul",
+        "day": "Thu",
+        "holiday": "Guru Hargobind Ji's Birthday"
+      },
+      {
+        "date": "13 Jul",
+        "day": "Mon",
+        "holiday": "Martyrs' Day"
+      },
+      {
+        "date": "31 Jul",
+        "day": "Fri",
+        "holiday": "Bakrid / Eid al Adha"
+      },
+      {
+        "date": "1 Aug",
+        "day": "Sat",
+        "holiday": "Bakrid / Eid al Adha Holiday"
+      },
+      {
+        "date": "15 Aug",
+        "day": "Sun",
+        "holiday": "Independence Day"
+      },
+      {
+        "date": "11 Aug",
+        "day": "Tue",
+        "holiday": "Janmashtami"
+      },
+      {
+        "date": "30 Aug",
+        "day": "Sun",
+        "holiday": "Muharram"
+      },
+      {
+        "date": "2 Oct",
+        "day": "Fri",
+        "holiday": "Gandhi Jayanti"
+      },
+      {
+        "date": "26 Oct",
+        "day": "Mon",
+        "holiday": "Vijaya Dashami"
+      },
+      {
+        "date": "14 Nov",
+        "day": "Sat",
+        "holiday": "Diwali"
+      },
+      {
+        "date": "30 Oct",
+        "day": "Fri",
+        "holiday": "Eid e Milad"
+      },
+      {
+        "date": "30 Nov",
+        "day": "Mon",
+        "holiday": "Guru Nanak Jayanti"
+      },
+      {
+        "date": "6 Nov",
+        "day": "Fri",
+        "holiday": "Friday Following Eid e Milad"
+      },
+      {
+        "date": "5 Dec",
+        "day": "Sat",
+        "holiday": "Sheikh Muhammad Abdullah Jayanti"
+      },
+      {
+        "date": "25 Dec",
+        "day": "Fri",
+        "holiday": "Christmas Day"
+      }
+    ],
+    "Jharkhand": [
+      {
+        "date": "26 Jan",
+        "day": "Sun",
+        "holiday": "Republic Day"
+      },
+      {
+        "date": "21 Feb",
+        "day": "Fri",
+        "holiday": "Maha Shivaratri"
+      },
+      {
+        "date": "10 Mar",
+        "day": "Tue",
+        "holiday": "Holi"
+      },
+      {
+        "date": "28 Mar",
+        "day": "Sat",
+        "holiday": "Sarhul"
+      },
+      {
+        "date": "14 Apr",
+        "day": "Tue",
+        "holiday": "Dr Ambedkar Jayanti"
+      },
+      {
+        "date": "10 Apr",
+        "day": "Fri",
+        "holiday": "Good Friday"
+      },
+      {
+        "date": "7 May",
+        "day": "Thu",
+        "holiday": "Buddha Purnima"
+      },
+      {
+        "date": "23 May",
+        "day": "Sat",
+        "holiday": "Idul Fitr"
+      },
+      {
+        "date": "31 Jul",
+        "day": "Fri",
+        "holiday": "Bakrid / Eid al Adha"
+      },
+      {
+        "date": "15 Aug",
+        "day": "Sat",
+        "holiday": "Independence Day"
+      },
+      {
+        "date": "11 Aug",
+        "day": "Tue",
+        "holiday": "Janmashtami"
+      },
+      {
+        "date": "30 Aug",
+        "day": "Sun",
+        "holiday": "Muharram"
+      },
+      {
+        "date": "2 Oct",
+        "day": "Fri",
+        "holiday": "Gandhi Jayanti"
+      },
+      {
+        "date": "24 Oct",
+        "day": "Sat",
+        "holiday": "Maha Ashtami"
+      },
+      {
+        "date": "26 Oct",
+        "day": "Mon",
+        "holiday": "Maha Navami"
+      },
+      {
+        "date": "26 Oct",
+        "day": "Mon",
+        "holiday": "Vijaya Dashami"
+      },
+      {
+        "date": "14 Nov",
+        "day": "Sat",
+        "holiday": "Diwali"
+      },
+      {
+        "date": "20 Nov",
+        "day": "Fri",
+        "holiday": "Chhath Puja"
+      },
+      {
+        "date": "30 Oct",
+        "day": "Fri",
+        "holiday": "Eid e Milad"
+      },
+      {
+        "date": "30 Nov",
+        "day": "Mon",
+        "holiday": "Guru Nanak Jayanti"
+      },
+      {
+        "date": "25 Dec",
+        "day": "Fri",
+        "holiday": "Christmas Day"
+      }
+    ],
+    "Uttar Pradesh": [
+      {
+        "date": "26 Jan",
+        "day": "Sun",
+        "holiday": "Republic Day"
+      },
+      {
+        "date": "21 Feb",
+        "day": "Fri",
+        "holiday": "Maha Shivaratri"
+      },
+      {
+        "date": "10 Mar",
+        "day": "Tue",
+        "holiday": "Holi"
+      },
+      {
+        "date": "9 Marr",
+        "day": "Mon",
+        "holiday": "Hazrat Ali Jayanti"
+      },
+      {
+        "date": "14 Apr",
+        "day": "Sun",
+        "holiday": "Ram Navami"
+      },
+      {
+        "date": "14 Apr",
+        "day": "Tue",
+        "holiday": "Dr Ambedkar Jayanti"
+      },
+      {
+        "date": "6 Apr",
+        "day": "Mon",
+        "holiday": "Mahavir Jayanti"
+      },
+      {
+        "date": "10 Apr",
+        "day": "Fri",
+        "holiday": "Good Friday"
+      },
+      {
+        "date": "7 May",
+        "day": "Thu",
+        "holiday": "Buddha Purnima"
+      },
+      {
+        "date": "24 May",
+        "day": "Sun",
+        "holiday": "Idul Fitr"
+      },
+      {
+        "date": "31 Jul",
+        "day": "Fri",
+        "holiday": "Bakrid / Eid al Adha"
+      },
+      {
+        "date": "15 Aug",
+        "day": "Sat",
+        "holiday": "Independence Day"
+      },
+      {
+        "date": "3 Aug",
+        "day": "Mon",
+        "holiday": "Raksha Bandhan"
+      },
+      {
+        "date": "11 Aug",
+        "day": "Tue",
+        "holiday": "Janmashtami"
+      },
+      {
+        "date": "30 Aug",
+        "day": "Sun",
+        "holiday": "Muharram"
+      },
+      {
+        "date": "2 Oct",
+        "day": "Fri",
+        "holiday": "Gandhi Jayanti"
+      },
+      {
+        "date": "25 Oct",
+        "day": "Sun",
+        "holiday": "Maha Navami"
+      },
+      {
+        "date": "25 Oct",
+        "day": "Mon",
+        "holiday": "Vijaya Dashami"
+      },
+      {
+        "date": "14 Nov",
+        "day": "Sat",
+        "holiday": "Diwali"
+      },
+      {
+        "date": "15 Nov",
+        "day": "Sun",
+        "holiday": "Deepavali Holiday"
+      },
+      {
+        "date": "16 Nov",
+        "day": "Mon",
+        "holiday": "Bhai Dooj"
+      },
+      {
+        "date": "30 Oct",
+        "day": "Fri",
+        "holiday": "Eid e Milad"
+      },
+      {
+        "date": "30 Nov",
+        "day": "Mon",
+        "holiday": "Guru Nanak Jayanti"
+      },
+      {
+        "date": "25 Dec",
+        "day": "Fri",
+        "holiday": "Christmas Day"
+      }
+    ],
+    "Karnataka": [
+      {
+        "date": "15 Jan",
+        "day": "Wed",
+        "holiday": "Makara Sankranti"
+      },
+      {
+        "date": "26 Jan",
+        "day": "Sun",
+        "holiday": "Republic Day"
+      },
+      {
+        "date": "21 Feb",
+        "day": "Fri",
+        "holiday": "Maha Shivaratri"
+      },
+      {
+        "date": "25 Mar",
+        "day": "Wed",
+        "holiday": "Ugadi"
+      },
+      {
+        "date": "14 Apr",
+        "day": "Tue",
+        "holiday": "Dr Ambedkar Jayanti"
+      },
+      {
+        "date": "6 Apr",
+        "day": "Mon",
+        "holiday": "Mahavir Jayanti"
+      },
+      {
+        "date": "10 Apr",
+        "day": "Fri",
+        "holiday": "Good Friday"
+      },
+      {
+        "date": "1 May",
+        "day": "Fri",
+        "holiday": "May Day"
+      },
+      {
+        "date": "26 Apr",
+        "day": "Sun",
+        "holiday": "Basava Jayanti"
+      },
+      {
+        "date": "23 May",
+        "day": "Sat",
+        "holiday": "Idul Fitr"
+      },
+      {
+        "date": "31 Jul",
+        "day": "Fri",
+        "holiday": "Bakrid / Eid al Adha"
+      },
+      {
+        "date": "15 Aug",
+        "day": "Sat",
+        "holiday": "Independence Day"
+      },
+      {
+        "date": "22 Aug",
+        "day": "Sat",
+        "holiday": "Ganesh Chaturthi"
+      },
+      {
+        "date": "29 Aug",
+        "day": "Sat",
+        "holiday": "Muharram"
+      },
+      {
+        "date": "28 Sep",
+        "day": "Sat",
+        "holiday": "Mahalaya Amavasye"
+      },
+      {
+        "date": "2 Oct",
+        "day": "Fri",
+        "holiday": "Gandhi Jayanti"
+      },
+      {
+        "date": "25 Oct",
+        "day": "Sun",
+        "holiday": "Maha Navami"
+      },
+      {
+        "date": "26 Oct",
+        "day": "Mon",
+        "holiday": "Vijaya Dashami"
+      },
+      {
+        "date": "31 Oct",
+        "day": "Sat",
+        "holiday": "Maharishi Valmiki Jayanti"
+      },
+      {
+        "date": "14 Nov",
+        "day": "Sat",
+        "holiday": "Deepavali"
+      },
+      {
+        "date": "15 Nov",
+        "day": "Sun",
+        "holiday": "Deepavali Holiday"
+      },
+      {
+        "date": "1 Nov",
+        "day": "Sun",
+        "holiday": "Kannada Rajyothsava"
+      },
+      {
+        "date": "30 Oct",
+        "day": "Fri",
+        "holiday": "Eid e Milad"
+      },
+      {
+        "date": "3 Dec",
+        "day": "Thu",
+        "holiday": "Kanakadasa Jayanti"
+      },
+      {
+        "date": "25 Dec",
+        "day": "Fri",
+        "holiday": "Christmas Day"
+      }
+    ],
+    "Uttarakhand": [
+      {
+        "date": "26 Jan",
+        "day": "Sun",
+        "holiday": "Republic Day"
+      },
+      {
+        "date": "21 Feb",
+        "day": "Fri",
+        "holiday": "Maha Shivaratri"
+      },
+      {
+        "date": "10 Mar",
+        "day": "Tue",
+        "holiday": "Holi"
+      },
+      {
+        "date": "2 Apr",
+        "day": "Thu",
+        "holiday": "Ram Navami"
+      },
+      {
+        "date": "14 Apr",
+        "day": "Tue",
+        "holiday": "Dr Ambedkar Jayanti"
+      },
+      {
+        "date": "10 Apr",
+        "day": "Fri",
+        "holiday": "Good Friday"
+      },
+      {
+        "date": "7 May",
+        "day": "Thu",
+        "holiday": "Buddha Purnima"
+      },
+      {
+        "date": "25 May",
+        "day": "Mon",
+        "holiday": "Idul Fitr"
+      },
+      {
+        "date": "31 Jul",
+        "day": "Fri",
+        "holiday": "Bakrid / Eid al Adha"
+      },
+      {
+        "date": "15 Aug",
+        "day": "Sat",
+        "holiday": "Independence Day"
+      },
+      {
+        "date": "3 Aug",
+        "day": "Mon",
+        "holiday": "Raksha Bandhan"
+      },
+      {
+        "date": "11 Aug",
+        "day": "Tue",
+        "holiday": "Janmashtami"
+      },
+      {
+        "date": "2 Oct",
+        "day": "Fri",
+        "holiday": "Gandhi Jayanti"
+      },
+      {
+        "date": "26 Oct",
+        "day": "Mon",
+        "holiday": "Vijaya Dashami"
+      },
+      {
+        "date": "14 Nov",
+        "day": "Sat",
+        "holiday": "Diwali"
+      },
+      {
+        "date": "15 Nov",
+        "day": "Sun",
+        "holiday": "Deepavali Holiday"
+      },
+      {
+        "date": "16 Nov",
+        "day": "Mon",
+        "holiday": "Bhai Dooj"
+      },
+      {
+        "date": "30 Oct",
+        "day": "Fri",
+        "holiday": "Eid e Milad"
+      },
+      {
+        "date": "30 Nov",
+        "day": "Mon",
+        "holiday": "Guru Nanak Jayanti"
+      },
+      {
+        "date": "25 Dec",
+        "day": "Fri",
+        "holiday": "Christmas Day"
+      }
+    ],
+    "Kerala": [
+      {
+        "date": "26 Jan",
+        "day": "Sun",
+        "holiday": "Republic Day"
+      },
+      {
+        "date": "21 Feb",
+        "day": "Fri",
+        "holiday": "Maha Shivaratri"
+      },
+      {
+        "date": "14 Apr",
+        "day": "Tue",
+        "holiday": "Dr Ambedkar Jayanti"
+      },
+      {
+        "date": "14 Apr",
+        "day": "Tue",
+        "holiday": "Vishu"
+      },
+      {
+        "date": "10 Apr",
+        "day": "Fri",
+        "holiday": "Good Friday"
+      },
+      {
+        "date": "12 Apr",
+        "day": "Sun",
+        "holiday": "Easter Sunday"
+      },
+      {
+        "date": "1 May",
+        "day": "Fri",
+        "holiday": "May Day"
+      },
+      {
+        "date": "24 May",
+        "day": "Sun",
+        "holiday": "Idul Fitr"
+      },
+      {
+        "date": "12 Aug",
+        "day": "Fri",
+        "holiday": "Bakrid / Eid al Adha"
+      },
+      {
+        "date": "15 Aug",
+        "day": "Sat",
+        "holiday": "Independence Day"
+      },
+      {
+        "date": "30 Aug",
+        "day": "Sun",
+        "holiday": "First Onam"
+      },
+      {
+        "date": "31 Aug",
+        "day": "Mon",
+        "holiday": "Thiruvonam"
+      },
+      {
+        "date": "2 Sep",
+        "day": "Wed",
+        "holiday": "Sree Narayana Guru Jayanti"
+      },
+      {
+        "date": "21 Sep",
+        "day": "Mon",
+        "holiday": "Sree Narayana Guru Samadhi"
+      },
+      {
+        "date": "2 Oct",
+        "day": "Fri",
+        "holiday": "Gandhi Jayanti"
+      },
+      {
+        "date": "24 Oct",
+        "day": "Sat",
+        "holiday": "Maha Navami"
+      },
+      {
+        "date": "26 Oct",
+        "day": "Mon",
+        "holiday": "Vijaya Dashami"
+      },
+      {
+        "date": "14 Nov",
+        "day": "Sat",
+        "holiday": "Deepavali"
+      },
+      {
+        "date": "30 Oct",
+        "day": "Fri",
+        "holiday": "Eid e Milad"
+      },
+      {
+        "date": "25 Dec",
+        "day": "Fri",
+        "holiday": "Christmas Day"
+      }
+    ],
+    "West Bengal": [
+      {
+        "date": "12 Jan",
+        "day": "Sun",
+        "holiday": "Swami Vivekananda Jayanti"
+      },
+      {
+        "date": "23 Jan",
+        "day": "Thu",
+        "holiday": "Netaji Subhas Chandra Bose Jayanti"
+      },
+      {
+        "date": "26 Jan",
+        "day": "Sun",
+        "holiday": "Republic Day"
+      },
+      {
+        "date": "30 Jan",
+        "day": "Thu",
+        "holiday": "Vasant Panchami"
+      },
+      {
+        "date": "10 Mar",
+        "day": "Tue",
+        "holiday": "Holi"
+      },
+      {
+        "date": "14 Apr",
+        "day": "Tue",
+        "holiday": "Dr Ambedkar Jayanti"
+      },
+      {
+        "date": "14 Apr",
+        "day": "Tue",
+        "holiday": "Bengali New Year"
+      },
+      {
+        "date": "10 Apr",
+        "day": "Fri",
+        "holiday": "Good Friday"
+      },
+      {
+        "date": "1 May",
+        "day": "Fri",
+        "holiday": "May Day"
+      },
+      {
+        "date": "8 May",
+        "day": "Fri",
+        "holiday": "Guru Rabindranath Jayanti"
+      },
+      {
+        "date": "7 May",
+        "day": "Thu",
+        "holiday": "Buddha Purnima"
+      },
+      {
+        "date": "24 May",
+        "day": "Sun",
+        "holiday": "Idul Fitr"
+      },
+      {
+        "date": "31 Jul",
+        "day": "Fri",
+        "holiday": "Bakrid / Eid al Adha"
+      },
+      {
+        "date": "15 Aug",
+        "day": "Sat",
+        "holiday": "Independence Day"
+      },
+      {
+        "date": "28 Sep",
+        "day": "Sat",
+        "holiday": "Mahalaya Amavasye"
+      },
+      {
+        "date": "2 Oct",
+        "day": "Fri",
+        "holiday": "Gandhi Jayanti"
+      },
+      {
+        "date": "23 Oct",
+        "day": "Fri",
+        "holiday": "Maha Saptami"
+      },
+      {
+        "date": "24 Oct",
+        "day": "Sat",
+        "holiday": "Maha Ashtami"
+      },
+      {
+        "date": "25 Oct",
+        "day": "Sun",
+        "holiday": "Maha Navami"
+      },
+      {
+        "date": "26 Oct",
+        "day": "Mon",
+        "holiday": "Vijaya Dashami"
+      },
+      {
+        "date": "31 Oct",
+        "day": "Sat",
+        "holiday": "Lakshmi Puja"
+      },
+      {
+        "date": "14 Nov",
+        "day": "Sat",
+        "holiday": "Diwali"
+      },
+      {
+        "date": "30 Nov",
+        "day": "Mon",
+        "holiday": "Guru Nanak Jayanti"
+      },
+      {
+        "date": "25 Dec",
+        "day": "Fri",
+        "holiday": "Christmas Day"
+      }
+    ]
+  }
+}
