@@ -1,0 +1,36 @@
+1-----------> Time Picker
+
+
+
+
+   <style name="theme.App.TimePickers" parent="ThemeOverlay.MaterialComponents.TimePicker">
+
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorOnPrimary">@color/white</item>
+        <item name="colorOnSurface">#E6310BE8</item>
+        <item name="chipStyle">@style/Widget.App.Chip</item>
+    </style>
+	
+	
+	
+	
+	2------------> Calendar
+	
+	
+	    <style name="MaterialCalendarTheme" parent="ThemeOverlay.MaterialComponents.MaterialCalendar">
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <!-- Header panel -->
+        <item name="materialCalendarHeaderLayout">@style/MaterialCalendar.HeaderLayout1</item>
+        <!--        &lt;!&ndash; Buttons &ndash;&gt;-->
+        <!--        <item name="buttonBarPositiveButtonStyle">@style/TextButton.Dialog1</item>-->
+        <!--        <item name="buttonBarNegativeButtonStyle">@style/TextButton.Dialog1</item>-->
+
+    </style>
+	
+	
+	3----------------->Material Dialog
+	
+	    <style name="CustomMaterialAlertDialogTheme">
+        <!-- Customize the button color -->
+        <item name="android:textColor">@color/colorPrimary</item>
+    </style>
